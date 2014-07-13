@@ -9,11 +9,11 @@ Not Perl6 modules ;-P
 - [Awesome Perl](#awesome-perl)
     - [Benchmarks](#benchmarks)
     - [CUI](#cui)
+    - [Class Builder](#class-builder)
     - [Database](#database)
     - [Database Drivers](#database-drivers)
     - [Date & Time](#date--time)
-    - [Generation & Generics](#generation--generics)
-    - [GUI](#gui)
+    - [File Manipulation](#file-manipulation)
     - [Images](#images)
     - [Logging](#logging)
     - [ORM](#orm)
@@ -33,9 +33,21 @@ Not Perl6 modules ;-P
 
 * [Getopt::Long](https://metacpan.org/pod/Getopt::Long)
 
+## Class Builder
+
+* [Class::Accessor::Lite](https://metacpan.org/pod/Class::Accessor::Lite) - Simply accessor generator.
+* [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy) - Generate lazy accessor.
+* [Moo](https://metacpan.org/pod/Moo) - Class Builder supported Meta programmings.
+* [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder using XS.
+
 ## Database
 
 * [DBI](https://metacpan.org/pod/DBI)
+* [DBIx::Sunny](https://metacpan.org/pod/DBIx::Sunny) - useful DBI Wrapper
+* [DBIx::TransactionManager](https://metacpan.org/pod/DBIx::TransactionManager)
+* [DBIx::Handler](https://metacpan.org/pod/DBIx::Handler) - fork safe DBI handler
+* [DBIx::Inspector](https://metacpan.org/pod/DBIx::Inspector)
+* [DBIx::QueryLog](https://metacpan.org/pod/DBIx::QueryLog)
 
 ## Database Drivers
 
@@ -56,12 +68,17 @@ Not Perl6 modules ;-P
 
 * [Time::Piece](https://metacpan.org/pod/Time::Piece)
 * [Time::Moment](https://metacpan.org/pod/Time::Moment)
+* [DateTime](https://metacpan.org/pod/DateTime)
 
 ## Email
 
 *Libraries that implement email creation and sending*
 
 * [Email::Sender](https://metacpan.org/pod/Email::Sender)
+
+## File Manipulation
+
+* [Path::Tiny](https://metacpan.org/pod/Path::Tiny) - Simple interface object file manipulation.
 
 ## Images
 
@@ -86,6 +103,7 @@ Not Perl6 modules ;-P
 
 *Libraries for package and dependency management.*
 
+* [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
 
 ## Template Engines
@@ -125,6 +143,7 @@ Not Perl6 modules ;-P
     * [JSON::PP](https://metacpan.org/pod/JSON::PP)
     * [YAML](https://metacpan.org/pod/YAML)
     * [TOML](https://metacpan.org/pod/TOML)
+    * [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
 
 ## Web Frameworks
 
@@ -136,7 +155,7 @@ Not Perl6 modules ;-P
 
 *Libraries for creating HTTP middlewares.*
 
-* [Plack](https://metacpan.org/pod/Plack)
-* [Starlet](https://metacpan.org/pod/Starlet)
-* [Twiggy](https://metacpan.org/pod/Server::Starter)
-* [Server::Starter](https://metacpan.org/pod/Server::Starter)
+* [Plack](https://metacpan.org/pod/Plack) - PSGI server implement and Utilities for Web applications.
+* [Starlet](https://metacpan.org/pod/Starlet) - High-performance PSGI Server
+* [Twiggy](https://metacpan.org/pod/Twiggy) - Event-driven PSGI application server
+* [Server::Starter](https://metacpan.org/pod/Server::Starter) - Graceful restart process manager for server.
