@@ -109,7 +109,7 @@ Not Perl6 modules ;-P
 
 # Serialize
 
-** Serialize Data Structures. See also [Text Processing](#text-processing). **
+**Serialize Data Structures. See also [Text Processing](#text-processing).**
 
 * [Storable](https://metacpan.org/pod/Storable)
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
