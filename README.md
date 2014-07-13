@@ -18,9 +18,12 @@ Not Perl6 modules ;-P
     - [Logging](#logging)
     - [ORM](#orm)
     - [Package Management](#package-management)
+    - [Profiling](#profiling)
+    - [Protocol](#protocol)
     - [Serialize](#serialize)
     - [Template Engines](#template-engines)
     - [Testing](#testing)
+    - [Tools](#tools)
     - [Text Processing](#text-processing)
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
@@ -107,6 +110,18 @@ Not Perl6 modules ;-P
 * [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
 
+## Profiling
+
+* [Devel::NYTProf](https://metacpan.org/pod/Devel::NYTProf) - Code profiler.
+* [Devel::KYTProf](https://metacpan.org/pod/Devel::KYTProf) - Very light profiler for SQL and Quering HTTP and other.
+
+## Protocol
+
+*Protocol Clients and Libiraries*
+
+* [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
+* [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
+
 # Serialize
 
 *Serialize Data Structures. See also [Text Processing](#text-processing).*
@@ -140,6 +155,15 @@ Not Perl6 modules ;-P
     * [Test::Fatal](https://metacpan.org/pod/Test::Fatal) - Simple Verify Exceptions.
     * [Test::Exception](https://metacpan.org/pod/Test::Fatal)
     * [Test::mysqld](https://metacpan.org/pod/Test::mysqld)
+    * [Test::TCP](https://metacpan.org/pod/Test::TCP) - launch temporary TCP Server
+
+* Coverage
+    * [Devel::Cover](https://metacpan.org/pod/Devel::Cover)
+    * [Devel::Cover::Report::Coveralls](https://metacpan.org/pod/Devel::Cover::Report::Coveralls) Report to Coveralls
+
+## Tools
+
+* [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command
 
 ## Text Processing
 
