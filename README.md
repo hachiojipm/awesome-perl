@@ -18,6 +18,7 @@ Not Perl6 modules ;-P
     - [Logging](#logging)
     - [ORM](#orm)
     - [Package Management](#package-management)
+    - [Serialize](#serialize)
     - [Template Engines](#template-engines)
     - [Testing](#testing)
     - [Text Processing](#text-processing)
@@ -38,7 +39,7 @@ Not Perl6 modules ;-P
 * [Class::Accessor::Lite](https://metacpan.org/pod/Class::Accessor::Lite) - Simply accessor generator.
 * [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy) - Generate lazy accessor.
 * [Moo](https://metacpan.org/pod/Moo) - Class Builder supported Meta programmings.
-* [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder using XS.
+* [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder such as Moo/Moose.
 
 ## Database
 
@@ -105,6 +106,13 @@ Not Perl6 modules ;-P
 
 * [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
+
+# Serialize
+
+** Serialize Data Structures. See also [Text Processing](#text-processing). **
+
+* [Storable](https://metacpan.org/pod/Storable)
+* [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
 
 ## Template Engines
 
