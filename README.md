@@ -18,6 +18,7 @@ Not Perl6 modules ;-P
     - [Logging](#logging)
     - [ORM](#orm)
     - [Package Management](#package-management)
+    - [Processes and Threads](#processes-and-threads)
     - [Profiling](#profiling)
     - [Protocol](#protocol)
     - [Serialize](#serialize)
@@ -109,6 +110,12 @@ Not Perl6 modules ;-P
 
 * [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
+
+## Processes and Threads
+
+* [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) A simple parallel processing fork manager
+* [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) A simple prefork server framework
+* [Proclet](https://metacpan.org/pod/Proclet) minimalistic Supervisor, perl port of [foreman](https://github.com/ddollar/foreman)
 
 ## Profiling
 
