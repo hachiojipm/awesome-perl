@@ -66,6 +66,7 @@ Not Perl6 modules ;-P
     * [Redis](https://metacpan.org/pod/Redis)
     * [Redis::Fast](https://metacpan.org/pod/Redis::Fast) - using hiredis driver
     * [UnQLite](https://metacpan.org/pod/UnQLite)
+    * [Mango](https://metacpan.org/pod/Mango) - Pure-Perl non-blocking I/O MongoDB driver
 
 ## Date & Time
 
@@ -128,6 +129,7 @@ Not Perl6 modules ;-P
 
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
+* [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Tiny HTTP(S) Client in corelist
 
 # Serialize
 
@@ -188,6 +190,7 @@ Not Perl6 modules ;-P
 
 * [Amon2](https://metacpan.org/pod/Amon2)
 * [Mojolicious](https://metacpan.org/pod/Mojolicious)
+* [Dancer](https://metacpan.org/pod/Dancer)
 * [Kossy](https://metacpan.org/pod/Kossy) - Simply interface framework.
 
 ### Middlewares
