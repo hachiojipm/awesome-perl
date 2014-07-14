@@ -19,6 +19,7 @@ Not Perl6 modules ;-P
     - [ORM](#orm)
     - [Package Management](#package-management)
     - [Processes and Threads](#processes-and-threads)
+    - [Concurrent Programming](#concurrent-programming)
     - [Profiling](#profiling)
     - [Protocol](#protocol)
     - [Serialize](#serialize)
@@ -117,6 +118,15 @@ Not Perl6 modules ;-P
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) A simple prefork server framework
 * [Proclet](https://metacpan.org/pod/Proclet) minimalistic Supervisor, perl port of [foreman](https://github.com/ddollar/foreman)
+
+## Concurrent Programming
+
+* [EV](https://metacpan.org/pod/EV) - perl interface to libev, a high performance full-featured event loop
+* [Coro](https://metacpan.org/pod/Coro) - Coroutine
+* [AnyEvent](https://metacpan.org/pod/AnyEvent) - the DBI of event loop programming
+* [IO::Async](https://metacpan.org/pod/IO::Async)
+* [Promises](https://metacpan.org/pod/Promises)
+* [Future](https://metacpan.org/pod/Future)
 
 ## Profiling
 
