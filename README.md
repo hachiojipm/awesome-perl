@@ -18,7 +18,10 @@ Not Perl6 modules ;-P
     - [Logging](#logging)
     - [ORM](#orm)
     - [Package Management](#package-management)
+    - [Data Analysis and Visualization](#data-analysis-and-visualization)
+    - [DevOps Tools](#devops-tools)
     - [Processes and Threads](#processes-and-threads)
+    - [Concurrent Programming](#concurrent-programming)
     - [Profiling](#profiling)
     - [Protocol](#protocol)
     - [Serialize](#serialize)
@@ -66,6 +69,7 @@ Not Perl6 modules ;-P
     * [Redis](https://metacpan.org/pod/Redis)
     * [Redis::Fast](https://metacpan.org/pod/Redis::Fast) - using hiredis driver
     * [UnQLite](https://metacpan.org/pod/UnQLite)
+    * [Mango](https://metacpan.org/pod/Mango) - Pure-Perl non-blocking I/O MongoDB driver
 
 ## Date & Time
 
@@ -96,6 +100,7 @@ Not Perl6 modules ;-P
 *Libraries for generating and working with log files.*
 
 * [Log::Minimal](https://metacpan.org/pod/Log::Minimal)
+* [Message::Passing](https://metacpan.org/pod/Message::Passing) - A high performance log managing tools inspired by logstash
 
 ## ORM
 
@@ -111,11 +116,40 @@ Not Perl6 modules ;-P
 * [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
 
+## Data Analysis and Visualization
+
+* [PDL](https://metacpan.org/pod/PDL)
+* [Math::Pari](https://metacpan.org/pod/Math::Pari)
+* [SVG](https://metacpan.org/pod/SVG)
+
+## DevOps Tools
+
+* [Rex](https://metacpan.org/pod/Rex) - Deployment & Configuration Management
+* [MogileFS](https://metacpan.org/pod/MogileFS) - A pure-perl distributed filesystem
+* [Nagios::Plugin](https://metacpan.org/pod/Nagios::Plugin) - A family of perl modules to streamline writing Nagios plugins
+* [stf](https://github.com/stf-storage/stf) - Yet another distributed filesystem built on PSGI
+* [webmin](http://www.webmin.com) - A web-based system configuration tool for Unix-like systems
+* [smokeping](http://www.smokeping.org) - A latency logging and graphing and alerting system
+* [cloudforecast](https://github.com/kazeburo/cloudforecast) A distributed monitor system
+* [Thruk](http://www.thruk.org) - A multibackend monitoring webinterface for Naemon, Nagios, Icinga and Shinken using the Livestatus API
+* [RT](http://bestpractical.com/rt/) - Request Tracker
+
 ## Processes and Threads
 
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) A simple prefork server framework
 * [Proclet](https://metacpan.org/pod/Proclet) minimalistic Supervisor, perl port of [foreman](https://github.com/ddollar/foreman)
+* [Ubic](https://metacpan.org/pod/Ubic) - Polymorphic service manager
+* [Gearman](https://metacpan.org/pod/Gearman) - Distributed Job System
+
+## Concurrent Programming
+
+* [EV](https://metacpan.org/pod/EV) - perl interface to libev, a high performance full-featured event loop
+* [Coro](https://metacpan.org/pod/Coro) - Coroutine
+* [AnyEvent](https://metacpan.org/pod/AnyEvent) - the DBI of event loop programming
+* [IO::Async](https://metacpan.org/pod/IO::Async)
+* [Promises](https://metacpan.org/pod/Promises)
+* [Future](https://metacpan.org/pod/Future)
 
 ## Profiling
 
@@ -128,6 +162,7 @@ Not Perl6 modules ;-P
 
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
+* [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Tiny HTTP(S) Client in corelist
 
 # Serialize
 
@@ -183,11 +218,14 @@ Not Perl6 modules ;-P
     * [YAML](https://metacpan.org/pod/YAML)
     * [TOML](https://metacpan.org/pod/TOML)
     * [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
+    * [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
+    * [Mojo::DOM](https://metacpan.org/pod/Mojo::DOM)
 
 ## Web Frameworks
 
 * [Amon2](https://metacpan.org/pod/Amon2)
 * [Mojolicious](https://metacpan.org/pod/Mojolicious)
+* [Dancer](https://metacpan.org/pod/Dancer)
 * [Kossy](https://metacpan.org/pod/Kossy) - Simply interface framework.
 
 ### Middlewares
@@ -198,3 +236,4 @@ Not Perl6 modules ;-P
 * [Starlet](https://metacpan.org/pod/Starlet) - High-performance PSGI Server
 * [Twiggy](https://metacpan.org/pod/Twiggy) - Event-driven PSGI application server
 * [Server::Starter](https://metacpan.org/pod/Server::Starter) - Graceful restart process manager for server.
+* [PocketIO](https://metacpan.org/pod/PocketIO) - a server implementation of Socket.IO in Perl
