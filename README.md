@@ -196,6 +196,8 @@ Not Perl6 modules ;-P
     * [YAML](https://metacpan.org/pod/YAML)
     * [TOML](https://metacpan.org/pod/TOML)
     * [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
+    * [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
+    * [Mojo::DOM](https://metacpan.org/pod/Mojo::DOM)
 
 ## Web Frameworks
 
