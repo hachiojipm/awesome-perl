@@ -18,6 +18,8 @@ Not Perl6 modules ;-P
     - [Logging](#logging)
     - [ORM](#orm)
     - [Package Management](#package-management)
+    - [Data Analysis and Visualization](#data-analysis-and-visualization)
+    - [DevOps Tools](#devops-tools)
     - [Processes and Threads](#processes-and-threads)
     - [Concurrent Programming](#concurrent-programming)
     - [Profiling](#profiling)
@@ -114,11 +116,31 @@ Not Perl6 modules ;-P
 * [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
 
+## Data Analysis and Visualization
+
+* [PDL](https://metacpan.org/pod/PDL)
+* [Math::Pari](https://metacpan.org/pod/Math::Pari)
+* [SVG](https://metacpan.org/pod/SVG)
+
+## DevOps Tools
+
+* [Rex](https://metacpan.org/pod/Rex) - Deployment & Configuration Management
+* [MogileFS](https://metacpan.org/pod/MogileFS) - A pure-perl distributed filesystem
+* [Nagios::Plugin](https://metacpan.org/pod/Nagios::Plugin) - A family of perl modules to streamline writing Nagios plugins
+* [stf](https://github.com/stf-storage/stf) - Yet another distributed filesystem built on PSGI
+* [webmin](http://www.webmin.com) - A web-based system configuration tool for Unix-like systems
+* [smokeping](http://www.smokeping.org) - A latency logging and graphing and alerting system
+* [cloudforecast](https://github.com/kazeburo/cloudforecast) A distributed monitor system
+* [Thruk](http://www.thruk.org) - A multibackend monitoring webinterface for Naemon, Nagios, Icinga and Shinken using the Livestatus API
+* [RT](http://bestpractical.com/rt/) - Request Tracker
+
 ## Processes and Threads
 
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) A simple prefork server framework
 * [Proclet](https://metacpan.org/pod/Proclet) minimalistic Supervisor, perl port of [foreman](https://github.com/ddollar/foreman)
+* [Ubic](https://metacpan.org/pod/Ubic) - Polymorphic service manager
+* [Gearman](https://metacpan.org/pod/Gearman) - Distributed Job System
 
 ## Concurrent Programming
 
