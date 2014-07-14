@@ -98,6 +98,7 @@ Not Perl6 modules ;-P
 *Libraries for generating and working with log files.*
 
 * [Log::Minimal](https://metacpan.org/pod/Log::Minimal)
+* [Message::Passing](https://metacpan.org/pod/Message::Passing) - A high performance log managing tools inspired by logstash
 
 ## ORM
 
@@ -211,3 +212,4 @@ Not Perl6 modules ;-P
 * [Starlet](https://metacpan.org/pod/Starlet) - High-performance PSGI Server
 * [Twiggy](https://metacpan.org/pod/Twiggy) - Event-driven PSGI application server
 * [Server::Starter](https://metacpan.org/pod/Server::Starter) - Graceful restart process manager for server.
+* [PocketIO](https://metacpan.org/pod/PocketIO) - a server implementation of Socket.IO in Perl
