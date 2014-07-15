@@ -4,6 +4,13 @@ A curated list of awesome Perl5 frameworks, libraries and software. Inspired by 
 
 Not Perl6 modules ;-P
 
+### Another module list
+
+Recommend these list also.
+
+* [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho "Task::Kensho")
+* Many Task::** Modules. (ex. Task::Plack, Task::BeLike::<AuthorName>...)
+
 ### Contents
 
 - [Awesome Perl](#awesome-perl)
