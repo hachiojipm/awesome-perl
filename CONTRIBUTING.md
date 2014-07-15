@@ -10,7 +10,7 @@ This guide reference from awesome-go [Contribution Guidelines](https://github.co
 ## Quality Standard
 
 The most important things.
-*Can you recommend that module for your friend who do not know much Perl5?**
+*Can you recommend that module for your friend who do not know much Perl5?*
 
 * Simple. Not too complex.
 * Module dependency is small.
