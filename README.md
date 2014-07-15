@@ -69,6 +69,7 @@ Recommend these list also.
     * [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
 
 * NoSQL Databases
+    * [Mango](https://metacpan.org/pod/Mango) - Pure-Perl non-blocking I/O MongoDB driver
     * [Cache::Memcached::Fast](https://metacpan.org/pod/Cache::Memcached::Fast)
     * [Redis](https://metacpan.org/pod/Redis)
     * [Redis::Fast](https://metacpan.org/pod/Redis::Fast) - using hiredis driver
