@@ -13,7 +13,7 @@ The most important things.
 *Can you recommend that module for your friend who do not know much Perl5?**
 
 * Simple. Not too complex.
-* (Required) Module dependency is small.
+* Module dependency is small.
 * Stable.
 * Maintained.
 * CPAN Module.
