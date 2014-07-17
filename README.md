@@ -178,6 +178,7 @@ Recommend these list also.
 ## Tools
 
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command
+* [Data::Printer](https://metacpan.org/pod/Data::Printer) - colored pretty-print of Perl data structures and objects
 
 ## Text Processing
 
