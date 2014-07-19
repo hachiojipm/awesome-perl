@@ -74,19 +74,17 @@ Recommend these list also.
     * [Redis::Fast](https://metacpan.org/pod/Redis::Fast) - using hiredis driver
     * [UnQLite](https://metacpan.org/pod/UnQLite)
 
-## Data Fromat
+## Data Format
 
 *Serialize and formatting, parsing libraries*
 
 * [Storable](https://metacpan.org/pod/Storable)
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
-
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
 * [JSON::XS](https://metacpan.org/pod/JSON::XS)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)
 * [YAML](https://metacpan.org/pod/YAML)
 * [TOML](https://metacpan.org/pod/TOML)
-
 * [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
 
 ## Date & Time
