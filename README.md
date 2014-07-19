@@ -126,6 +126,16 @@ Recommend these list also.
 * [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
 * [Teng](https://metacpan.org/pod/Teng)
 
+## Queueing
+
+*Message Queue, Job Queue System..*
+
+* RDBMS Base
+    * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
+    * [Qudo](https://metacpan.org/pod/Qudo)
+* Memory Base
+    * [Gearman](https://metacpan.org/release/Gearman) 
+
 ## Package Management
 
 *Libraries for package and dependency management.*
