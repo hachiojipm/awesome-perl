@@ -113,6 +113,12 @@ Recommend these list also.
 
 * [Imager](https://metacpan.org/pod/Imager)
 
+## Args
+
+*Libraries for argument manifestation and validation.*
+
+* [Smart::Args](https://metacpan.org/pod/Smart::Args)
+
 ## Logging
 
 *Libraries for generating and working with log files.*
