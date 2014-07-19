@@ -202,4 +202,12 @@ Recommend these list also.
 * [Server::Starter](https://metacpan.org/pod/Server::Starter) - Graceful restart process manager for server.
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome).
+
+Other amazingly awesome lists can be found in 
+
+* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome).
+* [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+
