@@ -205,7 +205,7 @@ Recommend these list also.
 
 Other amazingly awesome lists can be found in 
 
-* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome).
+* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
