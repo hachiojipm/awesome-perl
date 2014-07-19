@@ -10,20 +10,19 @@ This guide reference from awesome-go [Contribution Guidelines](https://github.co
 ## Quality Standard
 
 The most important things.
-*Can you recommend that module for your friend who do not know much Perl5?**
+*Can you recommend that module for your friend who do not know much Perl5?*
 
-* Simple. Must not too complex.
-* Dependence of the minimum required.
+* Simple. Not too complex.
+* Module dependency is small.
 * Stable.
 * Maintained.
+* CPAN Module.
 
-In addition, Some categories (ex. *Web Application Framework*) the following this conditions.
+In addition, Some categories (ex. *Web Application Framework*) append the following this conditions.
 
 * Many users.
 * Has detailed in manual and tutorial.
 * Under the development. Not only maintain.
-
-Therefore, Only CPAN Modules with the exception.
 
 ## Rule
 
