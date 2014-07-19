@@ -194,6 +194,7 @@ Recommend these list also.
 * [Mojolicious](https://metacpan.org/pod/Mojolicious)
 * [Kossy](https://metacpan.org/pod/Kossy) - Simply interface framework.
 * [Dancer](https://metacpan.org/pod/Dancer)
+* [Dancer2](https://metacpan.org/pod/Dancer2)
 
 ### Middlewares
 
