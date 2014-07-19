@@ -19,6 +19,7 @@ Recommend these list also.
     - [Class Builder](#class-builder)
     - [Database](#database)
     - [Database Drivers](#database-drivers)
+    - [Data Format](#data-format)
     - [Date & Time](#date--time)
     - [File Manipulation](#file-manipulation)
     - [Images](#images)
@@ -28,11 +29,9 @@ Recommend these list also.
     - [Processes and Threads](#processes-and-threads)
     - [Profiling](#profiling)
     - [Protocol](#protocol)
-    - [Serialize](#serialize)
     - [Template Engines](#template-engines)
     - [Testing](#testing)
     - [Tools](#tools)
-    - [Text Processing](#text-processing)
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
 
@@ -73,6 +72,21 @@ Recommend these list also.
     * [Redis](https://metacpan.org/pod/Redis)
     * [Redis::Fast](https://metacpan.org/pod/Redis::Fast) - using hiredis driver
     * [UnQLite](https://metacpan.org/pod/UnQLite)
+
+## Data Fromat
+
+*Serialize and formatting, parsing libraries*
+
+* [Storable](https://metacpan.org/pod/Storable)
+* [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
+
+* [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
+* [JSON::XS](https://metacpan.org/pod/JSON::XS)
+* [JSON::PP](https://metacpan.org/pod/JSON::PP)
+* [YAML](https://metacpan.org/pod/YAML)
+* [TOML](https://metacpan.org/pod/TOML)
+
+* [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
 
 ## Date & Time
 
@@ -136,13 +150,6 @@ Recommend these list also.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
 
-# Serialize
-
-*Serialize Data Structures. See also [Text Processing](#text-processing).*
-
-* [Storable](https://metacpan.org/pod/Storable)
-* [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
-
 ## Template Engines
 
 *Libraries and tools for templating and lexing.*
@@ -178,18 +185,6 @@ Recommend these list also.
 ## Tools
 
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command
-
-## Text Processing
-
-*Libraries for parsing and manipulating texts.*
-
-* Specific Formats
-    * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
-    * [JSON::XS](https://metacpan.org/pod/JSON::XS)
-    * [JSON::PP](https://metacpan.org/pod/JSON::PP)
-    * [YAML](https://metacpan.org/pod/YAML)
-    * [TOML](https://metacpan.org/pod/TOML)
-    * [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
 
 ## Web Frameworks
 
