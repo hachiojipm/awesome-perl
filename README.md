@@ -24,6 +24,7 @@ Recommend these list also.
     - [File Manipulation](#file-manipulation)
     - [Images](#images)
     - [Logging](#logging)
+    - [Module Development](#module-development)
     - [ORM](#orm)
     - [Package Management](#package-management)
     - [Processes and Threads](#processes-and-threads)
@@ -116,6 +117,12 @@ Recommend these list also.
 *Libraries for generating and working with log files.*
 
 * [Log::Minimal](https://metacpan.org/pod/Log::Minimal)
+
+## Module Development
+
+*Libraries that simplify and improve Perl module development.*
+
+* [Dist::Zilla](http://dzil.org/)
 
 ## ORM
 
