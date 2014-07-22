@@ -123,6 +123,7 @@ Recommend these list also.
 *Libraries that simplify and improve Perl module development.*
 
 * [Dist::Zilla](http://dzil.org/)
+* [Minilla](https://metacpan.org/pod/Minilla) - CPAN module authoring tool
 
 ## ORM
 
