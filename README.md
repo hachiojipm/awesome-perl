@@ -79,6 +79,7 @@ Recommend these list also.
 
 *Serialize and formatting, parsing libraries*
 
+* [Sereal](https://metacpan.org/pod/Sereal)
 * [Storable](https://metacpan.org/pod/Storable)
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
