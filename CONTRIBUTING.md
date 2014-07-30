@@ -1,6 +1,6 @@
-First of all, Respect for great predecessors and all contributers, Perl community.
+First of all, respect great predecessors and all contributors in Perl community.
 
-This guide reference from awesome-go [Contribution Guidelines](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md). See also.
+This guide is inspired by awesome-go [Contribution Guidelines](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md).
 
 # Contribution Guidelines
 
@@ -9,22 +9,23 @@ This guide reference from awesome-go [Contribution Guidelines](https://github.co
 
 ## Quality Standard
 
-The most important things.
-*Can you recommend that module for your friend who do not know much Perl5?**
+The most important thing is that this list is for *people who do not know much about Perl5*.
 
-* Simple. Must not too complex.
-* Dependence of the minimum required.
+Therefore, modules in the list must meet the following quality standards.
+
+* Simple. Must not be too complex.
+* Minimum dependency on other modules.
 * Stable.
 * Maintained.
+* Installable from CPAN.
 
-In addition, Some categories (ex. *Web Application Framework*) the following this conditions.
+In addition, modules in some categories (ex. *Web Application Framework*) should also meet the following conditions.
 
-* Many users.
-* Has detailed in manual and tutorial.
-* Under the development. Not only maintain.
-
-Therefore, Only CPAN Modules with the exception.
+* Has many users.
+* Has detailed manual and tutorial.
+* Not only maintained but under active development.
 
 ## Rule
 
-* One pull-request, One category and few modules.
+* Add a few modules to one category in one pull-request.
+
