@@ -17,14 +17,13 @@ Therefore, modules in the list must meet the following quality standards.
 * Minimum dependency on other modules.
 * Stable.
 * Maintained.
+* Installable from CPAN.
 
 In addition, modules in some categories (ex. *Web Application Framework*) should also meet the following conditions.
 
 * Has many users.
 * Has detailed manual and tutorial.
 * Not only maintained but under active development.
-
-Therefore, Only CPAN Modules with the exception.
 
 ## Rule
 
