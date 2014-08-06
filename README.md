@@ -123,6 +123,12 @@ We also recommend these lists.
 
 * [Imager](https://metacpan.org/pod/Imager)
 
+## Args
+
+*Libraries for argument manifestation and validation.*
+
+* [Smart::Args](https://metacpan.org/pod/Smart::Args)
+
 ## Logging
 
 *Libraries for generating and working with log files*
@@ -249,3 +255,4 @@ Other amazingly awesome lists can be found in
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+
