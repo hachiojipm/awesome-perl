@@ -58,6 +58,12 @@ We also recommend these lists.
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
 
+## Container
+
+*Libraries for Singleton Pattern implementation.*
+
+* [Object::Container](https://metacpan.org/pod/Object::Container)
+
 ## Database
 
 *Libraries for dealing with relational databases*
