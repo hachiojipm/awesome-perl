@@ -232,6 +232,7 @@ We also recommend these lists.
 
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) - Colored pretty-print of Perl data structures and objects.
+* [App::Ack](https://metacpan.org/pod/App::Ack) - ack is a tool like grep, optimized for programmers.
 
 ## Web Frameworks
 
