@@ -134,6 +134,8 @@ We also recommend these lists.
 *Libraries for argument manifestation and validation.*
 
 * [Smart::Args](https://metacpan.org/pod/Smart::Args)
+* [Data::Validator](https://metacpan.org/pod/Data::Validator) - Rule based validator on type constraint system.
+* [Params::Validate](https://metacpan.org/pod/Params::Validate) - Validate method/function parameters.
 
 ## Logging
 
