@@ -11,19 +11,12 @@ This guide is inspired by awesome-go [Contribution Guidelines](https://github.co
 
 The most important thing is that this list is for *people who do not know much about Perl5*.
 
-Therefore, modules in the list must meet the following quality standards.
+Therefore, modules in the list should meet the following quality standards.
 
-* Simple. Must not be too complex.
-* Minimum dependency on other modules.
-* Stable.
-* Maintained.
+* Generally useful.
+* Stable or Actively maintained.
 * Installable from CPAN.
-
-In addition, modules in some categories (ex. *Web Application Framework*) should also meet the following conditions.
-
-* Has many users.
 * Has detailed manual and tutorial.
-* Not only maintained but under active development.
 
 ## Rule
 
