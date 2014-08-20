@@ -128,6 +128,7 @@ We also recommend these lists.
 *Libraries for manipulating images.*
 
 * [Imager](https://metacpan.org/pod/Imager)
+* [Image::Magick](https://metacpan.org/pod/Image::Magick) - An object-oriented interface to ImageMagick's image composing libraries.
 
 ## Args
 
