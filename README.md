@@ -246,6 +246,7 @@ We also recommend these lists.
 * [Kossy](https://metacpan.org/pod/Kossy) - A Web framework with simple interface.
 * [Dancer](https://metacpan.org/pod/Dancer) ([Official site](http://perldancer.org/))
 * [Dancer2](https://metacpan.org/pod/Dancer2)
+* [Catalyst](https://metacpan.org/pod/Catalyst)
 
 ### Middlewares
 
