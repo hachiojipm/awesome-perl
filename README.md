@@ -196,6 +196,7 @@ We also recommend these lists.
 
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
+* [HTTP:Tiny](https://metacpan.org/pod/HTTP::Tiny) - Minimal and fast client. Included in the standard packages.
 
 ## Template Engines
 
