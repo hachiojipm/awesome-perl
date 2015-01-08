@@ -25,6 +25,7 @@ We also recommend these lists.
     - [Images](#images)
     - [Logging](#logging)
     - [Module Development](#module-development)
+    - [Network](#network)
     - [ORM](#orm)
     - [Package Management](#package-management)
     - [Processes and Threads](#processes-and-threads)
@@ -69,6 +70,7 @@ We also recommend these lists.
 *Libraries for dealing with relational databases*
 
 * [DBI](https://metacpan.org/pod/DBI)
+* [DBIx::Connector](https://metacpan.org/pod/DBIx::Connector) - Fast, safe DBI connection and transaction management
 * [DBIx::Sunny](https://metacpan.org/pod/DBIx::Sunny) - Useful DBI Wrapper
 * [DBIx::TransactionManager](https://metacpan.org/pod/DBIx::TransactionManager)
 * [DBIx::Handler](https://metacpan.org/pod/DBIx::Handler) - Fork-safe DBI handler
@@ -98,6 +100,7 @@ We also recommend these lists.
 * [Sereal](https://metacpan.org/pod/Sereal)
 * [Storable](https://metacpan.org/pod/Storable)
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
+* [Data::Dumper](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
 * [JSON::XS](https://metacpan.org/pod/JSON::XS)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)
@@ -142,7 +145,10 @@ We also recommend these lists.
 
 *Libraries for generating and working with log files*
 
+* [Log::Dispatch](https://metacpan.org/pod/Log::Dispatch)
+* [Log::Log4perl](https://metacpan.org/pod/Log::Log4perl)
 * [Log::Minimal](https://metacpan.org/pod/Log::Minimal)
+
 
 ## Module Development
 
@@ -151,11 +157,18 @@ We also recommend these lists.
 * [Dist::Zilla](http://dzil.org/)
 * [Minilla](https://metacpan.org/pod/Minilla) - CPAN module authoring tool
 
+## Network
+
+*Libraries that help when you are dealing with computer networks*
+
+* [NetAddr::MAC](https://metacpan.org/pod/NetAddr::MAC) - Handle MAC addresses
+
 ## ORM
 
 *Libraries that implement Object-Relational Mapping or datamapping techniques*
 
 * [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
+* [Rose::DB](https://metacpan.org/pod/Rose::DB)
 * [Teng](https://metacpan.org/pod/Teng)
 
 ## Queueing
@@ -166,7 +179,7 @@ We also recommend these lists.
     * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
     * [Qudo](https://metacpan.org/pod/Qudo)
 * Memory Base
-    * [Gearman](https://metacpan.org/release/Gearman) 
+    * [Gearman](https://metacpan.org/release/Gearman)
 
 ## Package Management
 
@@ -174,6 +187,7 @@ We also recommend these lists.
 
 * [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
+* [Pinto](https://metacpan.org/release/Pinto) - Powerful local CPAN repos
 
 ## Processes and Threads
 
@@ -194,6 +208,7 @@ We also recommend these lists.
 
 *Protocol clients and libraries*
 
+* [Net::DHCP](https://metacpan.org/release/Net-DHCP) - Send and recieve DHCP packets
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
 * [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Minimal and fast client. Included in the standard packages.
@@ -202,6 +217,7 @@ We also recommend these lists.
 
 *Libraries and tools for templating*
 
+* [Text::Templates](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
 * [Text::Xslate](https://metacpan.org/pod/Text::Xslate) - Faster template engine with XS. Support multiple syntaxes.
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) - Fast, simple and safe template engine written in pure-Perl and core modules.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) - Extended Text::MicroTemplate.
@@ -240,6 +256,7 @@ We also recommend these lists.
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) - Colored pretty-print of Perl data structures and objects.
 * [App::Ack](https://metacpan.org/pod/App::Ack) - ack is a tool like grep, optimized for programmers.
+* [App::Nopaste](https://metacpan.org/pod/App::Nopaste) - Post to various pastebins from the CLI
 
 ## Web Frameworks
 
