@@ -258,6 +258,7 @@ We also recommend these lists.
 
 * [Plack](https://metacpan.org/pod/Plack) - PSGI server implementation and utilities for Web applications.
 * [Starlet](https://metacpan.org/pod/Starlet) - High-performance PSGI Server
+* [Starman](https://metacpan.org/pod/Starman) - High-performance preforking PSGI/Plack web server
 * [Twiggy](https://metacpan.org/pod/Twiggy) - Event-driven PSGI application server
 * [Server::Starter](https://metacpan.org/pod/Server::Starter) - Process manager with the "graceful restart" feature.
 
