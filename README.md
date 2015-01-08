@@ -25,6 +25,7 @@ We also recommend these lists.
     - [Images](#images)
     - [Logging](#logging)
     - [Module Development](#module-development)
+    - [Network](#network)
     - [ORM](#orm)
     - [Package Management](#package-management)
     - [Processes and Threads](#processes-and-threads)
@@ -153,6 +154,12 @@ We also recommend these lists.
 
 * [Dist::Zilla](http://dzil.org/)
 * [Minilla](https://metacpan.org/pod/Minilla) - CPAN module authoring tool
+
+## Network
+
+*Libraries that help when you are dealing with computer networks*
+
+* [NetAddr::MAC](https://metacpan.org/pod/NetAddr::MAC) - Handle MAC addresses
 
 ## ORM
 
