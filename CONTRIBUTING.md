@@ -7,6 +7,11 @@ This guide is inspired by awesome-go [Contribution Guidelines](https://github.co
 * **To add to the list**: Submit a pull request
 * **To remove from the list**: Open an issue
 
+In either case, it is desirable to contain following items in issue comment.
+
+* Motivation (e.g. why do you wanna add new item?)
+* Use case (e.g. situation)
+
 ## Quality Standard
 
 The most important thing is that this list is for *people who do not know much about Perl5*.
