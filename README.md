@@ -269,3 +269,6 @@ Other amazingly awesome lists can be found in
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
+# How to contribute?
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) 
