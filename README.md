@@ -70,6 +70,7 @@ We also recommend these lists.
 *Libraries for dealing with relational databases*
 
 * [DBI](https://metacpan.org/pod/DBI)
+* [DBIx::Connector](https://metacpan.org/pod/DBIx::Connector) - Fast, safe DBI connection and transaction management
 * [DBIx::Sunny](https://metacpan.org/pod/DBIx::Sunny) - Useful DBI Wrapper
 * [DBIx::TransactionManager](https://metacpan.org/pod/DBIx::TransactionManager)
 * [DBIx::Handler](https://metacpan.org/pod/DBIx::Handler) - Fork-safe DBI handler
