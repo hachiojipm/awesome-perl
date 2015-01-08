@@ -1,3 +1,5 @@
+I’m really glad that you are interested in contributing to awesome-perl!
+
 First of all, respect great predecessors and all contributors in Perl community.
 
 This guide is inspired by awesome-go [Contribution Guidelines](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md).
