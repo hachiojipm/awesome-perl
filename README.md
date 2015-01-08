@@ -159,6 +159,7 @@ We also recommend these lists.
 *Libraries that implement Object-Relational Mapping or datamapping techniques*
 
 * [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
+* [Rose::DB](https://metacpan.org/pod/Rose::DB)
 * [Teng](https://metacpan.org/pod/Teng)
 
 ## Queueing
