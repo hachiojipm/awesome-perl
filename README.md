@@ -41,6 +41,7 @@ We also recommend these lists.
 
 *Libraries for benchmarking*
 
+* [Dumbbench](http://metacpan.org/pod/Dumbbench)
 * [Benchmark](http://metacpan.org/pod/Benchmark)
 * [Parallel::Benchmark](http://metacpan.org/pod/Parallel::Benchmark) - Benchmark in multiprocesses
 
@@ -187,7 +188,7 @@ We also recommend these lists.
 
 * [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
-* [Pinto](https://metacpan.org/release/Pinto) - Powerful local CPAN repos
+* [Pinto](https://metacpan.org/pod/Pinto) - Powerful local CPAN repos
 
 ## Processes and Threads
 
