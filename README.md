@@ -142,7 +142,10 @@ We also recommend these lists.
 
 *Libraries for generating and working with log files*
 
+* [Log::Dispatch](https://metacpan.org/pod/Log::Dispatch)
+* [Log::Log4perl](https://metacpan.org/pod/Log::Log4perl)
 * [Log::Minimal](https://metacpan.org/pod/Log::Minimal)
+
 
 ## Module Development
 
