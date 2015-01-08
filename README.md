@@ -180,7 +180,7 @@ We also recommend these lists.
     * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
     * [Qudo](https://metacpan.org/pod/Qudo)
 * Memory Base
-    * [Gearman](https://metacpan.org/release/Gearman)
+    * [Gearman](https://metacpan.org/pod/Gearman)
 
 ## Package Management
 
@@ -209,7 +209,7 @@ We also recommend these lists.
 
 *Protocol clients and libraries*
 
-* [Net::DHCP](https://metacpan.org/release/Net-DHCP) - Send and recieve DHCP packets
+* [Net::DHCP](https://metacpan.org/pod/Net-DHCP) - Send and recieve DHCP packets
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
 * [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Minimal and fast client. Included in the standard packages.
