@@ -215,6 +215,7 @@ We also recommend these lists.
 
 *Libraries and tools for templating*
 
+* [Text;;Templates](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
 * [Text::Xslate](https://metacpan.org/pod/Text::Xslate) - Faster template engine with XS. Support multiple syntaxes.
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) - Fast, simple and safe template engine written in pure-Perl and core modules.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) - Extended Text::MicroTemplate.
