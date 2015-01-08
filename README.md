@@ -170,7 +170,7 @@ We also recommend these lists.
     * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
     * [Qudo](https://metacpan.org/pod/Qudo)
 * Memory Base
-    * [Gearman](https://metacpan.org/release/Gearman) 
+    * [Gearman](https://metacpan.org/release/Gearman)
 
 ## Package Management
 
@@ -178,6 +178,7 @@ We also recommend these lists.
 
 * [App::cpanminus](https://metacpan.org/pod/App::cpanminus)
 * [Carton](https://metacpan.org/pod/Carton)
+* [Pinto](https://metacpan.org/release/Pinto) - Powerful local CPAN repos
 
 ## Processes and Threads
 
