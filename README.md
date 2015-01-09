@@ -101,7 +101,6 @@ We also recommend these lists.
 * [Sereal](https://metacpan.org/pod/Sereal)
 * [Storable](https://metacpan.org/pod/Storable)
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
-* [Data::Dumper](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
 * [JSON::XS](https://metacpan.org/pod/JSON::XS)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)
@@ -255,6 +254,7 @@ We also recommend these lists.
 *Some useful tools*
 
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
+* [Data::Dumper](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) - Colored pretty-print of Perl data structures and objects.
 * [App::Ack](https://metacpan.org/pod/App::Ack) - ack is a tool like grep, optimized for programmers.
 * [App::Nopaste](https://metacpan.org/pod/App::Nopaste) - Post to various pastebins from the CLI
