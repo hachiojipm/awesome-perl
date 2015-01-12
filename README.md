@@ -101,7 +101,7 @@ We also recommend these lists.
 * [Sereal](https://metacpan.org/pod/Sereal)
 * [Storable](https://metacpan.org/pod/Storable)
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
-* [Data::Dumper](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
+* [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
 * [JSON::XS](https://metacpan.org/pod/JSON::XS)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)
@@ -194,9 +194,9 @@ We also recommend these lists.
 
 *Libraries for managing processes and threads*
 
-* [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) A simple parallel processing fork manager
-* [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) A simple prefork server framework
-* [Proclet](https://metacpan.org/pod/Proclet) Minimalistic supervisor, a Perl port of [foreman](https://github.com/ddollar/foreman)
+* [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
+* [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
+* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman](https://github.com/ddollar/foreman)
 
 ## Profiling
 
@@ -218,8 +218,8 @@ We also recommend these lists.
 
 *Libraries and tools for templating*
 
-* [Text::Templates](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
-* [Text::Xslate](https://metacpan.org/pod/Text::Xslate) - Faster template engine with XS. Support multiple syntaxes.
+* [Text::Template](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
+* [Text::Xslate](https://metacpan.org/pod/Text::Xslate) - Faster template engine with XS. Supports multiple syntaxes.
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) - Fast, simple and safe template engine written in pure-Perl and core modules.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) - Extended Text::MicroTemplate.
 * [Tiffany](https://metacpan.org/pod/Tiffany) - Generic interface for template engines. It makes it easy to use multiple template engines.
@@ -232,8 +232,8 @@ We also recommend these lists.
     * [Test::More](https://metacpan.org/pod/Test::More)
     * [Test::Class](https://metacpan.org/pod/Test::Class) - Class-based testing. Support "setup" and "teardown".
     * [Test::Deep](https://metacpan.org/pod/Test::Deep) - Test deep and complex data structures with great flexibility.
-    * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Mather)
-    * [Test::BDD::Cucumber](https://metacpan.org/pod/Test::BDD::Cucumber) - implementation of the popular Cucumber framework in Perl
+    * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
+    * [Test::BDD::Cucumber](https://metacpan.org/pod/Test::BDD::Cucumber) - Implementation of the popular Cucumber framework in Perl
     * [Test::Base](https://metacpan.org/pod/Test::Base) - A Data Driven Testing Framework
     * [Test::Base::Less](https://metacpan.org/pod/Test::Base::Less) - Limited version of Test::Base
 
@@ -282,7 +282,7 @@ We also recommend these lists.
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in 
+Other amazingly awesome lists can be found in:
 
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
@@ -292,4 +292,4 @@ Other amazingly awesome lists can be found in
 
 # How to contribute?
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) 
+Please read [CONTRIBUTING.md](CONTRIBUTING.md)
