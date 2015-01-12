@@ -22,6 +22,7 @@ We also recommend these lists.
     - [Data Format](#data-format)
     - [Date & Time](#date--time)
     - [File Manipulation](#file-manipulation)
+    - [Form Frameworks](#form-frameworks)
     - [Images](#images)
     - [Logging](#logging)
     - [Module Development](#module-development)
@@ -35,7 +36,8 @@ We also recommend these lists.
     - [Testing](#testing)
     - [Tools](#tools)
     - [Web Frameworks](#web-frameworks)
-        - [Middlewares](#middlewares)
+    - [Web Framework-Like](#web-framework-like)
+    - [Middlewares](#middlewares)
 
 ## Benchmarks
 
@@ -219,10 +221,13 @@ We also recommend these lists.
 *Libraries and tools for templating*
 
 * [Text::Templates](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
+* [Template::Toolkit](https://metacpan.org/release/Template-Toolkit) - Very Popular Template Processing System
+* [Template::Allow](https://metacpan.org/release/Template-Alloy) - TT2/3, HT, HTE, Tmpl, and Velocity Engine
 * [Text::Xslate](https://metacpan.org/pod/Text::Xslate) - Faster template engine with XS. Support multiple syntaxes.
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) - Fast, simple and safe template engine written in pure-Perl and core modules.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) - Extended Text::MicroTemplate.
 * [Tiffany](https://metacpan.org/pod/Tiffany) - Generic interface for template engines. It makes it easy to use multiple template engines.
+
 
 ## Testing
 
@@ -264,11 +269,33 @@ We also recommend these lists.
 *Libraries for developing Web applications*
 
 * [Amon2](https://metacpan.org/pod/Amon2)
-* [Mojolicious](https://metacpan.org/pod/Mojolicious)
+* [Mojolicious](https://metacpan.org/pod/Mojolicious) - An all in one framework.
 * [Kossy](https://metacpan.org/pod/Kossy) - A Web framework with simple interface.
 * [Dancer](https://metacpan.org/pod/Dancer) ([Official site](http://perldancer.org/))
+* [Gantry](https://metacpan.org/pod/Gantry) - Web application framework for mod_perl, cgi, etc.
 * [Dancer2](https://metacpan.org/pod/Dancer2)
-* [Catalyst](https://metacpan.org/pod/Catalyst)
+* [Catalyst](https://metacpan.org/pod/Catalyst) - Overflowing with features. Very popular.
+
+
+## Web Framework-Like
+
+*Somewhere between templates and full on frameworks*
+
+* [Mason](https://metacpan.org/pod/Mason) - Powerful, high-performance templating for the web and beyond
+* [Poet](https://metacpan.org/pod/Poet) - a modern Perl web framework for Mason developers
+* [Embperl](https://metacpan.org/pod/Embperl) - Building dynamic Websites with Perl (sort of like Perl crossed with PHP)
+
+## Form Frameworks
+
+*Libraries that take the boredom & repetition out of (web and UI) forms*
+
+* [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework
+* [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files
+* [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst-Controller-HTML-FormFu) - Use HTML::FormFu in Catalyst
+* [CGI::FormBuilder](https://metacpan.org/pod/CGI-FormBuilder) - Easily generate and process stateful forms
+* [Form::Toolkit](https://metacpan.org/pod/Form-Toolkit) - A toolkit to build Data centric Forms
+* [WWW::Form](https://metacpan.org/pod/WWW-Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
+* [Form::Sensible](https://metacpan.org/pod/Form-Sensible) - A sensible way to handle form based user interface
 
 ### Middlewares
 
@@ -282,7 +309,7 @@ We also recommend these lists.
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in 
+Other amazingly awesome lists can be found in
 
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
@@ -292,4 +319,4 @@ Other amazingly awesome lists can be found in
 
 # How to contribute?
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) 
+Please read [CONTRIBUTING.md](CONTRIBUTING.md)
