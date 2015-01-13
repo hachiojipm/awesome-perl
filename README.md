@@ -9,6 +9,7 @@ Not Perl6 modules ;-P
 We also recommend these lists.
 
 * [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho "Task::Kensho")
+* [PerlMaven.com list of Perl Software](http://perlmaven.com/perl-based-open-source-products)
 * Many Task::** Modules. (ex. Task::Plack, Task::BeLike::<AuthorName>...)
 
 ### Contents
