@@ -38,6 +38,7 @@ We also recommend these lists.
     - [Tools](#tools)
     - [Web Frameworks](#web-frameworks)
     - [Web Framework-Like](#web-framework-like)
+    - [REST Frameworks](#rest-frameworks)
     - [Middlewares](#middlewares)
 
 ## Benchmarks
@@ -60,8 +61,10 @@ We also recommend these lists.
 
 * [Class::Accessor::Lite](https://metacpan.org/pod/Class::Accessor::Lite) - Simple accessor generator.
 * [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy) - Generate lazy accessors.
-* [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
+* [Moose](https://metacpan.org/pod/Mosse) - The one and only, Moose
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
+* [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
+* [Mo](https://metacpan.org/pod/Mo) - Micro Objects. Mo is less.
 
 ## Container
 
@@ -166,6 +169,7 @@ We also recommend these lists.
 *Libraries that help when you are dealing with computer networks*
 
 * [NetAddr::MAC](https://metacpan.org/pod/NetAddr::MAC) - Handle MAC addresses
+* [DOCSIS::ConfigFile](https://metacpan.org/pod/DOCSIS::ConfigFile) -  Decodes and encodes DOCSIS config files
 
 ## ORM
 
@@ -296,6 +300,16 @@ We also recommend these lists.
 * [Form::Toolkit](https://metacpan.org/pod/Form-Toolkit) - A toolkit to build Data centric Forms
 * [WWW::Form](https://metacpan.org/pod/WWW-Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
 * [Form::Sensible](https://metacpan.org/pod/Form-Sensible) - A sensible way to handle form based user interface
+
+## REST Frameworks
+
+*Libraries for developing REST applications*
+
+* [Raisin](https://metacpan.org/pod/Raisin) - a REST API micro framework for Perl
+* [Squatting](https://metacpan.org/pod/Squatting) - A Camping-inspired Web Microframework for Perl
+* [Catalyst::Action::REST](https://metacpan.org/pod/Catalyst::Action::REST) - Automated REST Method Dispatching
+* [Dancer::Plugin::REST](https://metacpan.org/pod/Dancer::Plugin::REST) - A plugin for writing RESTful apps with Dancer
+* [Dancer2::Plugin::REST](https://metacpan.org/pod/Dancer2::Plugin::REST) - A plugin for writing RESTful apps with Dancer2
 
 ### Middlewares
 
