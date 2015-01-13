@@ -275,14 +275,13 @@ We also recommend these lists.
 * [Gantry](https://metacpan.org/pod/Gantry) - Web application framework for mod_perl, cgi, etc.
 * [Dancer2](https://metacpan.org/pod/Dancer2)
 * [Catalyst](https://metacpan.org/pod/Catalyst) - Overflowing with features. Very popular.
-
+* [Poet](https://metacpan.org/pod/Poet) - a modern Perl web framework for Mason developers
 
 ## Web Framework-Like
 
 *Somewhere between templates and full on frameworks*
 
 * [Mason](https://metacpan.org/pod/Mason) - Powerful, high-performance templating for the web and beyond
-* [Poet](https://metacpan.org/pod/Poet) - a modern Perl web framework for Mason developers
 * [Embperl](https://metacpan.org/pod/Embperl) - Building dynamic Websites with Perl (sort of like Perl crossed with PHP)
 
 ## Form Frameworks
