@@ -239,7 +239,7 @@ We also recommend these lists.
 
 * Mock
     * [Test::Mock::Guard](https://metacpan.org/pod/Test::Mock::Guard) - Mocking package subroutines.
-    * [Test::Mock::Time](https://metacpan.org/pod/Test::Mock::Time)
+    * [Test::MockTime](https://metacpan.org/pod/Test::MockTime)
     * [Test::Time](https://metacpan.org/pod/Test::Time) - Simple module for faking system time.
     * [Test::Fatal](https://metacpan.org/pod/Test::Fatal) - Simple module for verifying exceptions.
     * [Test::Exception](https://metacpan.org/pod/Test::Exception)
