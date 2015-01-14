@@ -36,8 +36,8 @@ We also recommend these lists.
     - [Testing](#testing)
     - [Tools](#tools)
     - [Web Frameworks](#web-frameworks)
+        - [Middlewares](#middlewares)
     - [Web Framework-Like](#web-framework-like)
-    - [Middlewares](#middlewares)
 
 ## Benchmarks
 
@@ -277,6 +277,16 @@ We also recommend these lists.
 * [Catalyst](https://metacpan.org/pod/Catalyst) - Overflowing with features. Very popular.
 * [Poet](https://metacpan.org/pod/Poet) - a modern Perl web framework for Mason developers
 
+### Middlewares
+
+*Libraries for creating HTTP middlewares.*
+
+* [Plack](https://metacpan.org/pod/Plack) - PSGI server implementation and utilities for Web applications.
+* [Starlet](https://metacpan.org/pod/Starlet) - High-performance PSGI Server
+* [Starman](https://metacpan.org/pod/Starman) - High-performance preforking PSGI/Plack web server
+* [Twiggy](https://metacpan.org/pod/Twiggy) - Event-driven PSGI application server
+* [Server::Starter](https://metacpan.org/pod/Server::Starter) - Process manager with the "graceful restart" feature.
+
 ## Web Framework-Like
 
 *Somewhere between templates and full on frameworks*
@@ -295,16 +305,6 @@ We also recommend these lists.
 * [Form::Toolkit](https://metacpan.org/pod/Form-Toolkit) - A toolkit to build Data centric Forms
 * [WWW::Form](https://metacpan.org/pod/WWW-Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
 * [Form::Sensible](https://metacpan.org/pod/Form-Sensible) - A sensible way to handle form based user interface
-
-### Middlewares
-
-*Libraries for creating HTTP middlewares.*
-
-* [Plack](https://metacpan.org/pod/Plack) - PSGI server implementation and utilities for Web applications.
-* [Starlet](https://metacpan.org/pod/Starlet) - High-performance PSGI Server
-* [Starman](https://metacpan.org/pod/Starman) - High-performance preforking PSGI/Plack web server
-* [Twiggy](https://metacpan.org/pod/Twiggy) - Event-driven PSGI application server
-* [Server::Starter](https://metacpan.org/pod/Server::Starter) - Process manager with the "graceful restart" feature.
 
 # Other Awesome Lists
 
