@@ -37,9 +37,10 @@ We also recommend these lists.
     - [Testing](#testing)
     - [Tools](#tools)
     - [Web Frameworks](#web-frameworks)
+        - [Middlewares](#middlewares)
     - [Web Framework-Like](#web-framework-like)
     - [REST Frameworks](#rest-frameworks)
-    - [Middlewares](#middlewares)
+    - [Form Frameworks](#form-frameworks)
 
 ## Benchmarks
 
@@ -107,7 +108,7 @@ We also recommend these lists.
 * [Sereal](https://metacpan.org/pod/Sereal)
 * [Storable](https://metacpan.org/pod/Storable)
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
-* [Data::Dumper](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
+* [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
 * [JSON::XS](https://metacpan.org/pod/JSON::XS)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)
@@ -201,9 +202,9 @@ We also recommend these lists.
 
 *Libraries for managing processes and threads*
 
-* [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) A simple parallel processing fork manager
-* [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) A simple prefork server framework
-* [Proclet](https://metacpan.org/pod/Proclet) Minimalistic supervisor, a Perl port of [foreman](https://github.com/ddollar/foreman)
+* [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
+* [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
+* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman](https://github.com/ddollar/foreman)
 
 ## Profiling
 
@@ -225,10 +226,10 @@ We also recommend these lists.
 
 *Libraries and tools for templating*
 
-* [Text::Templates](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
+* [Text::Template](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
 * [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) - Very Popular Template Processing System
 * [Template::Alloy](https://metacpan.org/pod/Template::Alloy) - TT2/3, HT, HTE, Tmpl, and Velocity Engine
-* [Text::Xslate](https://metacpan.org/pod/Text::Xslate) - Faster template engine with XS. Support multiple syntaxes.
+* [Text::Xslate](https://metacpan.org/pod/Text::Xslate) - Faster template engine with XS. Supports multiple syntaxes.
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) - Fast, simple and safe template engine written in pure-Perl and core modules.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) - Extended Text::MicroTemplate.
 * [Tiffany](https://metacpan.org/pod/Tiffany) - Generic interface for template engines. It makes it easy to use multiple template engines.
@@ -242,14 +243,14 @@ We also recommend these lists.
     * [Test::More](https://metacpan.org/pod/Test::More)
     * [Test::Class](https://metacpan.org/pod/Test::Class) - Class-based testing. Support "setup" and "teardown".
     * [Test::Deep](https://metacpan.org/pod/Test::Deep) - Test deep and complex data structures with great flexibility.
-    * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Mather)
-    * [Test::BDD::Cucumber](https://metacpan.org/pod/Test::BDD::Cucumber) - implementation of the popular Cucumber framework in Perl
+    * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
+    * [Test::BDD::Cucumber](https://metacpan.org/pod/Test::BDD::Cucumber) - Implementation of the popular Cucumber framework in Perl
     * [Test::Base](https://metacpan.org/pod/Test::Base) - A Data Driven Testing Framework
     * [Test::Base::Less](https://metacpan.org/pod/Test::Base::Less) - Limited version of Test::Base
 
 * Mock
     * [Test::Mock::Guard](https://metacpan.org/pod/Test::Mock::Guard) - Mocking package subroutines.
-    * [Test::Mock::Time](https://metacpan.org/pod/Test::Mock::Time)
+    * [Test::MockTime](https://metacpan.org/pod/Test::MockTime)
     * [Test::Time](https://metacpan.org/pod/Test::Time) - Simple module for faking system time.
     * [Test::Fatal](https://metacpan.org/pod/Test::Fatal) - Simple module for verifying exceptions.
     * [Test::Exception](https://metacpan.org/pod/Test::Exception)
@@ -282,6 +283,16 @@ We also recommend these lists.
 * [Catalyst](https://metacpan.org/pod/Catalyst) - Overflowing with features. Very popular.
 * [Poet](https://metacpan.org/pod/Poet) - a modern Perl web framework for Mason developers
 
+### Middlewares
+
+*Libraries for creating HTTP middlewares.*
+
+* [Plack](https://metacpan.org/pod/Plack) - PSGI server implementation and utilities for Web applications.
+* [Starlet](https://metacpan.org/pod/Starlet) - High-performance PSGI Server
+* [Starman](https://metacpan.org/pod/Starman) - High-performance preforking PSGI/Plack web server
+* [Twiggy](https://metacpan.org/pod/Twiggy) - Event-driven PSGI application server
+* [Server::Starter](https://metacpan.org/pod/Server::Starter) - Process manager with the "graceful restart" feature.
+
 ## Web Framework-Like
 
 *Somewhere between templates and full on frameworks*
@@ -311,19 +322,9 @@ We also recommend these lists.
 * [Dancer::Plugin::REST](https://metacpan.org/pod/Dancer::Plugin::REST) - A plugin for writing RESTful apps with Dancer
 * [Dancer2::Plugin::REST](https://metacpan.org/pod/Dancer2::Plugin::REST) - A plugin for writing RESTful apps with Dancer2
 
-### Middlewares
-
-*Libraries for creating HTTP middlewares.*
-
-* [Plack](https://metacpan.org/pod/Plack) - PSGI server implementation and utilities for Web applications.
-* [Starlet](https://metacpan.org/pod/Starlet) - High-performance PSGI Server
-* [Starman](https://metacpan.org/pod/Starman) - High-performance preforking PSGI/Plack web server
-* [Twiggy](https://metacpan.org/pod/Twiggy) - Event-driven PSGI application server
-* [Server::Starter](https://metacpan.org/pod/Server::Starter) - Process manager with the "graceful restart" feature.
-
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in
+Other amazingly awesome lists can be found in:
 
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
