@@ -321,6 +321,7 @@ We also recommend these lists.
 
 *Libraries for creating HTTP middlewares.*
 
+* [Gazelle](https://metacpan.org/pod/Gazelle) - Preforked Plack Handler for performance freaks
 * [Plack](https://metacpan.org/pod/Plack) - PSGI server implementation and utilities for Web applications.
 * [Server::Starter](https://metacpan.org/pod/Server::Starter) - Process manager with the "graceful restart" feature.
 * [Starlet](https://metacpan.org/pod/Starlet) - High-performance PSGI Server
