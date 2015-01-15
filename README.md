@@ -15,7 +15,7 @@ We also recommend these lists.
 
 - [Awesome Perl](#awesome-perl)
     - [Benchmarks](#benchmarks)
-    - [CUI](#cui)
+    - [CLI](#cli)
     - [Class Builder](#class-builder)
     - [Database](#database)
     - [Database Drivers](#database-drivers)
@@ -48,9 +48,9 @@ We also recommend these lists.
 * [Benchmark](http://metacpan.org/pod/Benchmark)
 * [Parallel::Benchmark](http://metacpan.org/pod/Parallel::Benchmark) - Benchmark in multiprocesses
 
-## CUI
+## CLI
 
-*Libraries for developing CUI applications*
+*Libraries for developing CLI applications*
 
 * [Getopt::Long](https://metacpan.org/pod/Getopt::Long)
 
