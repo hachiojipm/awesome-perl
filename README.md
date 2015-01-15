@@ -35,14 +35,13 @@ We also recommend these lists.
     - [Processes and Threads](#processes-and-threads)
     - [Profiling](#profiling)
     - [Protocol](#protocol)
+    - [REST Frameworks](#rest-frameworks)
     - [Template Engines](#template-engines)
     - [Testing](#testing)
     - [Tools](#tools)
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
     - [Web Framework-Like](#web-framework-like)
-    - [REST Frameworks](#rest-frameworks)
-    - [Form Frameworks](#form-frameworks)
 
 ## Benchmarks
 
@@ -146,6 +145,18 @@ We also recommend these lists.
 
 * [Path::Tiny](https://metacpan.org/pod/Path::Tiny) - Simple object-oriented file manipulation.
 
+## Form Frameworks
+
+*Libraries that take the boredom & repetition out of (web and UI) forms*
+
+* [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst-Controller-HTML-FormFu) - Use HTML::FormFu in Catalyst
+* [CGI::FormBuilder](https://metacpan.org/pod/CGI-FormBuilder) - Easily generate and process stateful forms
+* [Form::Sensible](https://metacpan.org/pod/Form-Sensible) - A sensible way to handle form based user interface
+* [Form::Toolkit](https://metacpan.org/pod/Form-Toolkit) - A toolkit to build Data centric Forms
+* [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework
+* [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files
+* [WWW::Form](https://metacpan.org/pod/WWW-Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
+
 ## Images
 
 *Libraries for manipulating images.*
@@ -235,6 +246,16 @@ We also recommend these lists.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
 * [Net::DHCP](https://metacpan.org/pod/Net-DHCP) - Send and recieve DHCP packets
 
+## REST Frameworks
+
+*Libraries for developing REST applications*
+
+* [Catalyst::Action::REST](https://metacpan.org/pod/Catalyst::Action::REST) - Automated REST Method Dispatching
+* [Dancer::Plugin::REST](https://metacpan.org/pod/Dancer::Plugin::REST) - A plugin for writing RESTful apps with Dancer
+* [Dancer2::Plugin::REST](https://metacpan.org/pod/Dancer2::Plugin::REST) - A plugin for writing RESTful apps with Dancer2
+* [Raisin](https://metacpan.org/pod/Raisin) - a REST API micro framework for Perl
+* [Squatting](https://metacpan.org/pod/Squatting) - A Camping-inspired Web Microframework for Perl
+
 ## Template Engines
 
 *Libraries and tools for templating*
@@ -312,28 +333,6 @@ We also recommend these lists.
 
 * [Embperl](https://metacpan.org/pod/Embperl) - Building dynamic Websites with Perl (sort of like Perl crossed with PHP)
 * [Mason](https://metacpan.org/pod/Mason) - Powerful, high-performance templating for the web and beyond
-
-## Form Frameworks
-
-*Libraries that take the boredom & repetition out of (web and UI) forms*
-
-* [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst-Controller-HTML-FormFu) - Use HTML::FormFu in Catalyst
-* [CGI::FormBuilder](https://metacpan.org/pod/CGI-FormBuilder) - Easily generate and process stateful forms
-* [Form::Sensible](https://metacpan.org/pod/Form-Sensible) - A sensible way to handle form based user interface
-* [Form::Toolkit](https://metacpan.org/pod/Form-Toolkit) - A toolkit to build Data centric Forms
-* [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework
-* [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files
-* [WWW::Form](https://metacpan.org/pod/WWW-Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
-
-## REST Frameworks
-
-*Libraries for developing REST applications*
-
-* [Catalyst::Action::REST](https://metacpan.org/pod/Catalyst::Action::REST) - Automated REST Method Dispatching
-* [Dancer::Plugin::REST](https://metacpan.org/pod/Dancer::Plugin::REST) - A plugin for writing RESTful apps with Dancer
-* [Dancer2::Plugin::REST](https://metacpan.org/pod/Dancer2::Plugin::REST) - A plugin for writing RESTful apps with Dancer2
-* [Raisin](https://metacpan.org/pod/Raisin) - a REST API micro framework for Perl
-* [Squatting](https://metacpan.org/pod/Squatting) - A Camping-inspired Web Microframework for Perl
 
 # Other Awesome Lists
 
