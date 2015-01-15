@@ -14,6 +14,8 @@ In either case, it is desirable to contain following items in issue comment.
 * Motivation (e.g. why do you wanna add new item?)
 * Use case (e.g. situation)
 
+__And list must be sorted alphabetically.__
+
 ### Example of Item of List
 
 ```
