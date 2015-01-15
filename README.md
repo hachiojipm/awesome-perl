@@ -200,6 +200,7 @@ We also recommend these lists.
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
 * [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman](https://github.com/ddollar/foreman)
+* [AnyEvent](https://metacpan.org/pod/AnyEvent) - the DBI of event loop programming
 
 ## Profiling
 
