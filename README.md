@@ -9,6 +9,7 @@ Not Perl6 modules ;-P
 We also recommend these lists.
 
 * [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho "Task::Kensho")
+* [PerlMaven.com list of Perl Software](http://perlmaven.com/perl-based-open-source-products)
 * Many Task::** Modules. (ex. Task::Plack, Task::BeLike::<AuthorName>...)
 
 ### Contents
@@ -21,6 +22,8 @@ We also recommend these lists.
     - [Database Drivers](#database-drivers)
     - [Data Format](#data-format)
     - [Date & Time](#date--time)
+    - [Email](#email)
+    - [Exception Handling](#exception-handling)
     - [File Manipulation](#file-manipulation)
     - [Form Frameworks](#form-frameworks)
     - [Images](#images)
@@ -38,6 +41,7 @@ We also recommend these lists.
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
     - [Web Framework-Like](#web-framework-like)
+    - [REST Frameworks](#rest-frameworks)
     - [Form Frameworks](#form-frameworks)
 
 ## Benchmarks
@@ -60,8 +64,10 @@ We also recommend these lists.
 
 * [Class::Accessor::Lite](https://metacpan.org/pod/Class::Accessor::Lite) - Simple accessor generator.
 * [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy) - Generate lazy accessors.
-* [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
+* [Moose](https://metacpan.org/pod/Mosse) - The one and only, Moose
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
+* [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
+* [Mo](https://metacpan.org/pod/Mo) - Micro Objects. Mo is less.
 
 ## Container
 
@@ -126,6 +132,16 @@ We also recommend these lists.
 
 * [Email::Sender](https://metacpan.org/pod/Email::Sender)
 
+## Exception Handling
+
+*Libraries that assist with and/or provide alternatives to eval{ die() }
+
+* [Try::Tiny](https://metacpan.org/pod/Try::Tiny) - minimal try/catch with proper preservation of $@
+* [TryCratch](https://metacpan.org/pod/TryCatch) - first class try catch semantics for Perl, without source filters
+* [autodie](https://metacpan.org/pod/autodie) - Replace functions with ones that succeed or die with lexical scope
+* [Exception::Class](https://metacpan.org/pod/Exception::Class) - A module that allows you to declare real exception classes in Perl
+* [Throwable](https://metacpan.org/pod/Throwable) - a role for classes that can be thrown
+
 ## File Manipulation
 
 * [Path::Tiny](https://metacpan.org/pod/Path::Tiny) - Simple object-oriented file manipulation.
@@ -166,6 +182,7 @@ We also recommend these lists.
 *Libraries that help when you are dealing with computer networks*
 
 * [NetAddr::MAC](https://metacpan.org/pod/NetAddr::MAC) - Handle MAC addresses
+* [DOCSIS::ConfigFile](https://metacpan.org/pod/DOCSIS::ConfigFile) -  Decodes and encodes DOCSIS config files
 
 ## ORM
 
@@ -306,6 +323,16 @@ We also recommend these lists.
 * [Form::Toolkit](https://metacpan.org/pod/Form-Toolkit) - A toolkit to build Data centric Forms
 * [WWW::Form](https://metacpan.org/pod/WWW-Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
 * [Form::Sensible](https://metacpan.org/pod/Form-Sensible) - A sensible way to handle form based user interface
+
+## REST Frameworks
+
+*Libraries for developing REST applications*
+
+* [Raisin](https://metacpan.org/pod/Raisin) - a REST API micro framework for Perl
+* [Squatting](https://metacpan.org/pod/Squatting) - A Camping-inspired Web Microframework for Perl
+* [Catalyst::Action::REST](https://metacpan.org/pod/Catalyst::Action::REST) - Automated REST Method Dispatching
+* [Dancer::Plugin::REST](https://metacpan.org/pod/Dancer::Plugin::REST) - A plugin for writing RESTful apps with Dancer
+* [Dancer2::Plugin::REST](https://metacpan.org/pod/Dancer2::Plugin::REST) - A plugin for writing RESTful apps with Dancer2
 
 # Other Awesome Lists
 
