@@ -7,12 +7,20 @@ This guide is inspired by awesome-go [Contribution Guidelines](https://github.co
 # Contribution Guidelines
 
 * **To add to the list**: Submit a pull request
-* **To remove from the list**: Open an issue
+* **To remove from the list**: Open an issue (you must describe a reason!)
 
 In either case, it is desirable to contain following items in issue comment.
 
 * Motivation (e.g. why do you wanna add new item?)
 * Use case (e.g. situation)
+
+### Example of Item of List
+
+```
+* [Plack](https://metacpan.org/pod/Plack) - PSGI server implementation and utilities for Web applications.
+```
+
+It must contain a `Name` as link, a `URL` (it must be metacpan's one, and it must start with `https://metacpan.org/pod`) and a description.
 
 ## Quality Standard
 
