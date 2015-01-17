@@ -67,6 +67,7 @@ We also recommend these lists.
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
 * [Moose](https://metacpan.org/pod/Mosse) - The one and only, Moose
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
+* [Homer](https://metacpan.org/pod/Homer) - Simple Prototype-based object system.
 
 ## Container
 
@@ -74,7 +75,7 @@ We also recommend these lists.
 
 * [Object::Container](https://metacpan.org/pod/Object::Container)
 
-## Database
+## Database-drivers
 
 *Libraries for dealing with relational databases*
 
@@ -194,6 +195,15 @@ We also recommend these lists.
 
 * [DOCSIS::ConfigFile](https://metacpan.org/pod/DOCSIS::ConfigFile) -  Decodes and encodes DOCSIS config files
 * [NetAddr::MAC](https://metacpan.org/pod/NetAddr::MAC) - Handle MAC addresses
+
+
+*Libraries that help when you are working across computer networks*
+
+* [Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - SSH wrapper to execute remote commands
+* [SSH::Command](https://metacpan.org/pod/SSH::Command) - interface to execute multiple commands on host by SSH protocol without certificates ( only login + password )
+* [MOI::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
+* [Rex](https://metacpan.org/Rex) - Remote Execution
+
 
 ## ORM
 
