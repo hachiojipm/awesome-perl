@@ -30,6 +30,7 @@ We also recommend these lists.
     - [Logging](#logging)
     - [Module Development](#module-development)
     - [Network](#network)
+    - [DevOps](#devops)
     - [ORM](#orm)
     - [Package Management](#package-management)
     - [Processes and Threads](#processes-and-threads)
@@ -145,6 +146,7 @@ We also recommend these lists.
 ## File Manipulation
 
 * [Path::Tiny](https://metacpan.org/pod/Path::Tiny) - Simple object-oriented file manipulation.
+* [File::Util](https://metacpan.org/pod/File::Util) - Easy, versatile, portable file handling.
 
 ## Form Frameworks
 
@@ -199,9 +201,14 @@ We also recommend these lists.
 
 *Libraries that help when you are working across computer networks*
 
-* [Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - SSH wrapper to execute remote commands
-* [SSH::Command](https://metacpan.org/pod/SSH::Command) - interface to execute multiple commands on host by SSH protocol without certificates ( only login + password )
+* [Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - SSH wrapper to execute remote commands.
+* [SSH::Command](https://metacpan.org/pod/SSH::Command) - interface to execute multiple commands on host by SSH protocol without certificates.
 * [MOI::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
+
+## DevOps Tools
+
+*Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
+
 * [Rex](https://metacpan.org/Rex) - Remote Execution
 
 
@@ -277,7 +284,7 @@ We also recommend these lists.
 * [Text::Template](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
 * [Text::Xslate](https://metacpan.org/pod/Text::Xslate) - Faster template engine with XS. Supports multiple syntaxes.
 * [Tiffany](https://metacpan.org/pod/Tiffany) - Generic interface for template engines. It makes it easy to use multiple template engines.
-
+* [Template::Magic](https://metacpan.org/pod/Template::Magic) - Magic merger of runtime values with templates.
 
 ## Testing
 
@@ -291,7 +298,8 @@ We also recommend these lists.
     * [Test::Deep](https://metacpan.org/pod/Test::Deep) - Test deep and complex data structures with great flexibility.
     * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
     * [Test::More](https://metacpan.org/pod/Test::More)
-
+	* [Test::Harness](https://metacpan.org/pod/Test::Harness) - Run Perl standard test scripts with statistics
+	
 * Mock
     * [Test::Exception](https://metacpan.org/pod/Test::Exception)
     * [Test::Fatal](https://metacpan.org/pod/Test::Fatal) - Simple module for verifying exceptions.
@@ -313,6 +321,19 @@ We also recommend these lists.
 * [App::Nopaste](https://metacpan.org/pod/App::Nopaste) - Post to various pastebins from the CLI
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) - Colored pretty-print of Perl data structures and objects.
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
+
+*Librairies for developping command line applications*
+
+* [Toolbox::Simple](https://metacpan.org/pod/Toolbox::Simple) - Simplfy some common tasks in Perl.
+* [Script::Toolbox](https://metacpan.org/pod/Script::Toolbox) - Framework for the daily business scripts.
+* [Devel::Kit](https://metacpan.org/pod/Devel::Kit)- Handy toolbox of things to ease development/debugging.
+
+*Librairies for handling configuration files*
+
+* [Config::Tiny](https://metacpan.org/pod/Config::Tiny) - Read/Write .ini style files with as little code as possible
+
+
+
 
 ## Web Frameworks
 
