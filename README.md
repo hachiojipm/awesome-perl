@@ -76,7 +76,7 @@ We also recommend these lists.
 
 * [Object::Container](https://metacpan.org/pod/Object::Container)
 
-## Database-drivers
+## Database
 
 *Libraries for dealing with relational databases*
 
@@ -198,7 +198,6 @@ We also recommend these lists.
 * [DOCSIS::ConfigFile](https://metacpan.org/pod/DOCSIS::ConfigFile) -  Decodes and encodes DOCSIS config files
 * [NetAddr::MAC](https://metacpan.org/pod/NetAddr::MAC) - Handle MAC addresses
 
-
 *Libraries that help when you are working across computer networks*
 
 * [Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - SSH wrapper to execute remote commands.
@@ -210,7 +209,6 @@ We also recommend these lists.
 *Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
 
 * [Rex](https://metacpan.org/Rex) - Remote Execution
-
 
 ## ORM
 
@@ -331,9 +329,6 @@ We also recommend these lists.
 *Librairies for handling configuration files*
 
 * [Config::Tiny](https://metacpan.org/pod/Config::Tiny) - Read/Write .ini style files with as little code as possible
-
-
-
 
 ## Web Frameworks
 
