@@ -55,7 +55,8 @@ We also recommend these lists.
 
 *Libraries for developing CLI applications*
 
-* [Getopt::Long](https://metacpan.org/pod/Getopt::Long)
+* [App::cmd](https://metacpan.org/pod/App::Cmd) - Write command line apps with less suffering.
+* [Getopt::Long](https://metacpan.org/pod/Getopt::Long) - Extended processing of command line options.
 
 ## Class Builder
 
