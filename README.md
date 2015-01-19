@@ -15,12 +15,16 @@ We also recommend these lists.
 ### Contents
 
 - [Awesome Perl](#awesome-perl)
+    - [Args](#args)
     - [Benchmarks](#benchmarks)
-    - [CLI](#cli)
     - [Class Builder](#class-builder)
+    - [CLI](#cli)
+    - [Container](#container)
+    - [Data Format](#data-format)
     - [Database](#database)
     - [Database Drivers](#database-drivers)
-    - [Data Format](#data-format)
+        - [Relational Databases](#relational-databases)
+        - [NoSQL Databases](#nosql-databases)
     - [Date & Time](#date--time)
     - [Email](#email)
     - [Exception Handling](#exception-handling)
@@ -35,28 +39,33 @@ We also recommend these lists.
     - [Processes and Threads](#processes-and-threads)
     - [Profiling](#profiling)
     - [Protocol](#protocol)
+    - [Queueing](#queueing)
     - [REST Frameworks](#rest-frameworks)
     - [Template Engines](#template-engines)
     - [Testing](#testing)
+        - [Testing Frameworks](#testing-frameworks)
+        - [Test Double](#test-double)
+        - [Coverage](#coverage)
     - [Tools](#tools)
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
-    - [Web Framework-Like](#web-framework-like)
+    - [Web Frameworks-Like](#web-frameworks-like)
+
+## Args
+
+*Libraries for argument manifestation and validation.*
+
+* [Data::Validator](https://metacpan.org/pod/Data::Validator) - Rule based validator on type constraint system.
+* [Params::Validate](https://metacpan.org/pod/Params::Validate) - Validate method/function parameters.
+* [Smart::Args](https://metacpan.org/pod/Smart::Args)
 
 ## Benchmarks
 
 *Libraries for benchmarking*
 
-* [Benchmark](http://metacpan.org/pod/Benchmark)
-* [Dumbbench](http://metacpan.org/pod/Dumbbench)
-* [Parallel::Benchmark](http://metacpan.org/pod/Parallel::Benchmark) - Benchmark in multiprocesses
-
-## CLI
-
-*Libraries for developing CLI applications*
-
-* [App::cmd](https://metacpan.org/pod/App::Cmd) - Write command line apps with less suffering.
-* [Getopt::Long](https://metacpan.org/pod/Getopt::Long) - Extended processing of command line options.
+* [Benchmark](https://metacpan.org/pod/Benchmark)
+* [Dumbbench](https://metacpan.org/pod/Dumbbench)
+* [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) - Benchmark in multiprocesses
 
 ## Class Builder
 
@@ -66,14 +75,36 @@ We also recommend these lists.
 * [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy) - Generate lazy accessors.
 * [Mo](https://metacpan.org/pod/Mo) - Micro Objects. Mo is less.
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
-* [Moose](https://metacpan.org/pod/Mosse) - The one and only, Moose
+* [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
+
+## CLI
+
+*Libraries for developing CLI applications*
+
+* [App::Cmd](https://metacpan.org/pod/App::Cmd) - Write command line apps with less suffering.
+* [Getopt::Long](https://metacpan.org/pod/Getopt::Long) - Extended processing of command line options.
 
 ## Container
 
 *Libraries for Singleton Pattern implementation.*
 
 * [Object::Container](https://metacpan.org/pod/Object::Container)
+
+## Data Format
+
+*Libraries for serializing, formatting and parsing*
+
+* [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
+* [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
+* [JSON::PP](https://metacpan.org/pod/JSON::PP)
+* [JSON::XS](https://metacpan.org/pod/JSON::XS)
+* [Sereal](https://metacpan.org/pod/Sereal)
+* [Storable](https://metacpan.org/pod/Storable)
+* [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
+* [TOML](https://metacpan.org/pod/TOML)
+* [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
+* [YAML](https://metacpan.org/pod/YAML)
 
 ## Database
 
@@ -91,32 +122,19 @@ We also recommend these lists.
 
 *Libraries for using specific database products*
 
-* Relational Databases
-    * [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
-    * [DBD::Pg](https://metacpan.org/pod/DBD::Pg) - PostgreSQL driver for DBI.
-    * [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
+### Relational Databases
 
-* NoSQL Databases
-    * [Cache::Memcached::Fast](https://metacpan.org/pod/Cache::Memcached::Fast)
-    * [Mango](https://metacpan.org/pod/Mango) - Pure-Perl non-blocking I/O MongoDB driver
-    * [Redis](https://metacpan.org/pod/Redis)
-    * [Redis::Fast](https://metacpan.org/pod/Redis::Fast) - Perl wrapper around hiredis driver
-    * [UnQLite](https://metacpan.org/pod/UnQLite)
+* [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
+* [DBD::Pg](https://metacpan.org/pod/DBD::Pg) - PostgreSQL driver for DBI.
+* [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
 
-## Data Format
+### NoSQL Databases
 
-*Libraries for serializing, formatting and parsing*
-
-* [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
-* [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
-* [JSON::PP](https://metacpan.org/pod/JSON::PP)
-* [JSON::XS](https://metacpan.org/pod/JSON::XS)
-* [Sereal](https://metacpan.org/pod/Sereal)
-* [Storable](https://metacpan.org/pod/Storable)
-* [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
-* [TOML](https://metacpan.org/pod/TOML)
-* [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
-* [YAML](https://metacpan.org/pod/YAML)
+* [Cache::Memcached::Fast](https://metacpan.org/pod/Cache::Memcached::Fast)
+* [Mango](https://metacpan.org/pod/Mango) - Pure-Perl non-blocking I/O MongoDB driver
+* [Redis](https://metacpan.org/pod/Redis)
+* [Redis::Fast](https://metacpan.org/pod/Redis::Fast) - Perl wrapper around hiredis driver
+* [UnQLite](https://metacpan.org/pod/UnQLite)
 
 ## Date & Time
 
@@ -139,8 +157,8 @@ We also recommend these lists.
 * [autodie](https://metacpan.org/pod/autodie) - Replace functions with ones that succeed or die with lexical scope
 * [Exception::Class](https://metacpan.org/pod/Exception::Class) - A module that allows you to declare real exception classes in Perl
 * [Throwable](https://metacpan.org/pod/Throwable) - a role for classes that can be thrown
-* [TryCratch](https://metacpan.org/pod/TryCatch) - first class try catch semantics for Perl, without source filters
 * [Try::Tiny](https://metacpan.org/pod/Try::Tiny) - minimal try/catch with proper preservation of $@
+* [TryCatch](https://metacpan.org/pod/TryCatch) - first class try catch semantics for Perl, without source filters
 
 ## File Manipulation
 
@@ -150,13 +168,13 @@ We also recommend these lists.
 
 *Libraries that take the boredom & repetition out of (web and UI) forms*
 
-* [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst-Controller-HTML-FormFu) - Use HTML::FormFu in Catalyst
-* [CGI::FormBuilder](https://metacpan.org/pod/CGI-FormBuilder) - Easily generate and process stateful forms
-* [Form::Sensible](https://metacpan.org/pod/Form-Sensible) - A sensible way to handle form based user interface
-* [Form::Toolkit](https://metacpan.org/pod/Form-Toolkit) - A toolkit to build Data centric Forms
+* [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst::Controller::HTML::FormFu) - Use HTML::FormFu in Catalyst
+* [CGI::FormBuilder](https://metacpan.org/pod/CGI::FormBuilder) - Easily generate and process stateful forms
+* [Form::Sensible](https://metacpan.org/pod/Form::Sensible) - A sensible way to handle form based user interface
+* [Form::Toolkit](https://metacpan.org/pod/Form::Toolkit) - A toolkit to build Data centric Forms
 * [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework
 * [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files
-* [WWW::Form](https://metacpan.org/pod/WWW-Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
+* [WWW::Form](https://metacpan.org/pod/WWW::Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
 
 ## Images
 
@@ -164,14 +182,6 @@ We also recommend these lists.
 
 * [Image::Magick](https://metacpan.org/pod/Image::Magick) - An object-oriented interface to ImageMagick's image composing libraries.
 * [Imager](https://metacpan.org/pod/Imager)
-
-## Args
-
-*Libraries for argument manifestation and validation.*
-
-* [Data::Validator](https://metacpan.org/pod/Data::Validator) - Rule based validator on type constraint system.
-* [Params::Validate](https://metacpan.org/pod/Params::Validate) - Validate method/function parameters.
-* [Smart::Args](https://metacpan.org/pod/Smart::Args)
 
 ## Logging
 
@@ -181,12 +191,11 @@ We also recommend these lists.
 * [Log::Log4perl](https://metacpan.org/pod/Log::Log4perl)
 * [Log::Minimal](https://metacpan.org/pod/Log::Minimal)
 
-
 ## Module Development
 
 *Libraries that simplify and improve Perl module development*
 
-* [Dist::Zilla](http://dzil.org/)
+* [Dist::Zilla](https://metacpan.org/pod/Dist::Zilla) - <http://dzil.org/>
 * [Minilla](https://metacpan.org/pod/Minilla) - CPAN module authoring tool
 
 ## Network
@@ -203,16 +212,6 @@ We also recommend these lists.
 * [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
 * [Rose::DB](https://metacpan.org/pod/Rose::DB)
 * [Teng](https://metacpan.org/pod/Teng)
-
-## Queueing
-
-*Message Queue, Job Queue System..*
-
-* RDBMS Base
-    * [Qudo](https://metacpan.org/pod/Qudo)
-    * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
-* Memory Base
-    * [Gearman](https://metacpan.org/pod/Gearman)
 
 ## Package Management
 
@@ -245,15 +244,23 @@ We also recommend these lists.
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
 * [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Minimal and fast client. Included in the standard packages.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
-* [Net::DHCP](https://metacpan.org/pod/Net-DHCP) - Send and recieve DHCP packets
+* [Net::DHCP](https://metacpan.org/pod/Net::DHCP) - Send and recieve DHCP packets
+
+## Queueing
+
+*Message Queue, Job Queue System..*
+
+* [Gearman](https://metacpan.org/pod/Gearman)
+* [Qudo](https://metacpan.org/pod/Qudo)
+* [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
 
 ## REST Frameworks
 
 *Libraries for developing REST applications*
 
 * [Catalyst::Action::REST](https://metacpan.org/pod/Catalyst::Action::REST) - Automated REST Method Dispatching
-* [Dancer::Plugin::REST](https://metacpan.org/pod/Dancer::Plugin::REST) - A plugin for writing RESTful apps with Dancer
 * [Dancer2::Plugin::REST](https://metacpan.org/pod/Dancer2::Plugin::REST) - A plugin for writing RESTful apps with Dancer2
+* [Dancer::Plugin::REST](https://metacpan.org/pod/Dancer::Plugin::REST) - A plugin for writing RESTful apps with Dancer
 * [Raisin](https://metacpan.org/pod/Raisin) - a REST API micro framework for Perl
 * [Squatting](https://metacpan.org/pod/Squatting) - A Camping-inspired Web Microframework for Perl
 
@@ -274,27 +281,31 @@ We also recommend these lists.
 
 *Libraries for testing codebases and generating test data.*
 
-* Testing Frameworks
-    * [Test::Base](https://metacpan.org/pod/Test::Base) - A Data Driven Testing Framework
-    * [Test::Base::Less](https://metacpan.org/pod/Test::Base::Less) - Limited version of Test::Base
-    * [Test::BDD::Cucumber](https://metacpan.org/pod/Test::BDD::Cucumber) - Implementation of the popular Cucumber framework in Perl
-    * [Test::Class](https://metacpan.org/pod/Test::Class) - Class-based testing. Support "setup" and "teardown".
-    * [Test::Deep](https://metacpan.org/pod/Test::Deep) - Test deep and complex data structures with great flexibility.
-    * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
-    * [Test::More](https://metacpan.org/pod/Test::More)
+### Testing Frameworks
 
-* Mock
-    * [Test::Exception](https://metacpan.org/pod/Test::Exception)
-    * [Test::Fatal](https://metacpan.org/pod/Test::Fatal) - Simple module for verifying exceptions.
-    * [Test::Mock::Guard](https://metacpan.org/pod/Test::Mock::Guard) - Mocking package subroutines.
-    * [Test::MockTime](https://metacpan.org/pod/Test::MockTime)
-    * [Test::mysqld](https://metacpan.org/pod/Test::mysqld)
-    * [Test::TCP](https://metacpan.org/pod/Test::TCP) - Launch temporary TCP Server
-    * [Test::Time](https://metacpan.org/pod/Test::Time) - Simple module for faking system time.
+* [Test::Base](https://metacpan.org/pod/Test::Base) - A Data Driven Testing Framework
+* [Test::Base::Less](https://metacpan.org/pod/Test::Base::Less) - Limited version of Test::Base
+* [Test::BDD::Cucumber](https://metacpan.org/pod/Test::BDD::Cucumber) - Implementation of the popular Cucumber framework in Perl
+* [Test::Class](https://metacpan.org/pod/Test::Class) - Class-based testing. Support "setup" and "teardown".
+* [Test::Deep](https://metacpan.org/pod/Test::Deep) - Test deep and complex data structures with great flexibility.
+* [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
+* [Test::Kantan](https://metacpan.org/pod/Test::Kantan) - simple, flexible, fun "Testing framework"
+* [Test::More](https://metacpan.org/pod/Test::More)
 
-* Coverage
-    * [Devel::Cover](https://metacpan.org/pod/Devel::Cover)
-    * [Devel::Cover::Report::Coveralls](https://metacpan.org/pod/Devel::Cover::Report::Coveralls) Report to Coveralls
+### Test Double
+
+* [Test::Exception](https://metacpan.org/pod/Test::Exception)
+* [Test::Fatal](https://metacpan.org/pod/Test::Fatal) - Simple module for verifying exceptions.
+* [Test::Mock::Guard](https://metacpan.org/pod/Test::Mock::Guard) - Mocking package subroutines.
+* [Test::MockTime](https://metacpan.org/pod/Test::MockTime)
+* [Test::mysqld](https://metacpan.org/pod/Test::mysqld)
+* [Test::TCP](https://metacpan.org/pod/Test::TCP) - Launch temporary TCP Server
+* [Test::Time](https://metacpan.org/pod/Test::Time) - Simple module for faking system time.
+
+### Coverage
+
+* [Devel::Cover](https://metacpan.org/pod/Devel::Cover)
+* [Devel::Cover::Report::Coveralls](https://metacpan.org/pod/Devel::Cover::Report::Coveralls) Report to Coveralls
 
 ## Tools
 
@@ -331,7 +342,7 @@ We also recommend these lists.
 * [Starman](https://metacpan.org/pod/Starman) - High-performance preforking PSGI/Plack web server
 * [Twiggy](https://metacpan.org/pod/Twiggy) - Event-driven PSGI application server
 
-## Web Framework-Like
+## Web Frameworks-Like
 
 *Somewhere between templates and full on frameworks*
 
