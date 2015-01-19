@@ -109,7 +109,7 @@ describe 'README.md' => sub {
         it 'should be sorted alphabetically' => sub {
             my @section_list = map { $_->{section} } @toc;
             ok { @section_list };
-            expect([@section_list])->to_be([sort @section_list]);
+            expect([@section_list])->to_be([sort {lc($a) cmp lc($b)} @section_list]);
         };
 
         for my $t (@toc) {
@@ -135,7 +135,7 @@ describe 'README.md' => sub {
                 it 'modules should be sorted alphabetically' => sub {
                     my @module_list = map { $_->{module} } @{ $c->{modules} };
                     ok { @module_list };
-                    expect([@module_list])->to_be([sort @module_list]);
+                    expect([@module_list])->to_be([sort {lc($a) cmp lc($b)} @module_list]);
                 };
             };
 
