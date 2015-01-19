@@ -22,6 +22,7 @@ We also recommend these lists.
     - [Database Drivers](#database-drivers)
     - [Data Format](#data-format)
     - [Date & Time](#date--time)
+    - [DevOps](#devops)
     - [Email](#email)
     - [Exception Handling](#exception-handling)
     - [File Manipulation](#file-manipulation)
@@ -30,7 +31,6 @@ We also recommend these lists.
     - [Logging](#logging)
     - [Module Development](#module-development)
     - [Network](#network)
-    - [DevOps](#devops)
     - [ORM](#orm)
     - [Package Management](#package-management)
     - [Processes and Threads](#processes-and-threads)
@@ -75,6 +75,12 @@ We also recommend these lists.
 *Libraries for Singleton Pattern implementation.*
 
 * [Object::Container](https://metacpan.org/pod/Object::Container)
+
+## DevOps Tools
+
+*Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
+
+* [Rex](https://metacpan.org/Rex) - Remote Execution
 
 ## Database
 
@@ -204,11 +210,6 @@ We also recommend these lists.
 * [SSH::Command](https://metacpan.org/pod/SSH::Command) - interface to execute multiple commands on host by SSH protocol without certificates.
 * [MOI::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
 
-## DevOps Tools
-
-*Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
-
-* [Rex](https://metacpan.org/Rex) - Remote Execution
 
 ## ORM
 
