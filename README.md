@@ -302,8 +302,10 @@ We also recommend these lists.
 
 * [App::Ack](https://metacpan.org/pod/App::Ack) - ack is a tool like grep, optimized for programmers.
 * [App::Nopaste](https://metacpan.org/pod/App::Nopaste) - Post to various pastebins from the CLI
+* [Daiku](https://metacpan.org/pod/Daiku) - Make for Perl.
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) - Colored pretty-print of Perl data structures and objects.
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
+* [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
 
 ## Web Frameworks
 
