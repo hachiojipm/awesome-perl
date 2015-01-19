@@ -18,12 +18,18 @@ while (my $line = <$fh>) {
             $state++;
             goto PARSE_CONTENTS;
         }
-        my ($section, $link) = $line =~ /^\s+- \[(.*)\]\(#(.*)\)/;
+        my ($indents, $section, $link) = $line =~ /^(\s+)- \[(.*)\]\(#(.*)\)/;
 
         if ($section) {
+            my $parent;
+            if (length($indents) > 4) {
+                # XXX
+                $parent = $toc[-1]{section};
+            }
             push @toc, {
                 section => $section,
                 link    => $link,
+                $parent ? (parent => $parent) : (),
             };
         }
         next;
@@ -107,7 +113,7 @@ while (my $line = <$fh>) {
 describe 'README.md' => sub {
     describe 'toc' => sub {
         it 'should be sorted alphabetically' => sub {
-            my @section_list = map { $_->{section} } @toc;
+            my @section_list = map { $_->{section} } grep { !$_->{parent} } @toc;
             ok { @section_list };
             expect([@section_list])->to_be([sort {lc($a) cmp lc($b)} @section_list]);
         };
@@ -134,7 +140,6 @@ describe 'README.md' => sub {
             describe $c->{section} => sub {
                 it 'modules should be sorted alphabetically' => sub {
                     my @module_list = map { $_->{module} } @{ $c->{modules} };
-                    ok { @module_list };
                     expect([@module_list])->to_be([sort {lc($a) cmp lc($b)} @module_list]);
                 };
             };
