@@ -31,6 +31,7 @@ We also recommend these lists.
     - [File Manipulation](#file-manipulation)
     - [Form Frameworks](#form-frameworks)
     - [Images](#images)
+    - [List Manipulation](#list-manipulation)
     - [Logging](#logging)
     - [Module Development](#module-development)
     - [Network](#network)
@@ -182,6 +183,15 @@ We also recommend these lists.
 
 * [Image::Magick](https://metacpan.org/pod/Image::Magick) - An object-oriented interface to ImageMagick's image composing libraries.
 * [Imager](https://metacpan.org/pod/Imager)
+
+## List Manipulation
+
+*Libraries for manipulation lists (arrays).*
+
+* [Array::Unique](https://metacpan.org/pod/Array::Unique) - Tie-able array that allows only unique values
+* [List::Compare](https://metacpan.org/pod/List::Compare) - Compare elements of two or more lists
+* [List::Gen](https://metacpan.org/pod/List::Gen) - Provides functions for generating lists
+* [List::Util](https://metacpan.org/pod/List::Util) - A selection of general-utility list subroutines
 
 ## Logging
 
