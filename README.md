@@ -41,8 +41,8 @@ We also recommend these lists.
     - [Profiling](#profiling)
     - [Protocol](#protocol)
     - [Queueing](#queueing)
-    - [Science/Numerics](#sciencenumerics)
     - [REST Frameworks](#rest-frameworks)
+    - [Science/Numerics](#sciencenumerics)
     - [Template Engines](#template-engines)
     - [Testing](#testing)
         - [Testing Frameworks](#testing-frameworks)
@@ -171,8 +171,8 @@ We also recommend these lists.
 
 ## File Manipulation
 
-* [Path::Tiny](https://metacpan.org/pod/Path::Tiny) - Simple object-oriented file manipulation.
 * [File::Util](https://metacpan.org/pod/File::Util) - Easy, versatile, portable file handling.
+* [Path::Tiny](https://metacpan.org/pod/Path::Tiny) - Simple object-oriented file manipulation.
 
 ## Form Frameworks
 
@@ -274,13 +274,13 @@ We also recommend these lists.
 ## Science/Numerics
 *Hand-picked modules for research, science, numerics and hyper-computing*
 
+* [BioPerl](https://metacpan.org/pod/distribution/BioPerl/BioPerl.pm)
 * [PDL](http://pdl.perl.org/)
 * [PDL (CPAN)](https://metacpan.org/pod/PDL)
 * [PDL::IO::*](https://metacpan.org/search?q=PDL%3A%3AIO&size=20)
 * [PDL::Stats](https://metacpan.org/pod/PDL::Stats)
 * [PDL::LinearAlgebra](https://metacpan.org/pod/PDL::LinearAlgebra)
 * [PDL::Graphics::Gnuplot](https://metacpan.org/pod/PDL::Graphics::Gnuplot)
-* [BioPerl](https://metacpan.org/pod/distribution/BioPerl/BioPerl.pm)
 * [Physics::*](https://metacpan.org/search?q=physics%3A%3A&size=20)
 
 
