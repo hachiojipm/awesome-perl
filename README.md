@@ -26,6 +26,7 @@ We also recommend these lists.
         - [Relational Databases](#relational-databases)
         - [NoSQL Databases](#nosql-databases)
     - [Date & Time](#date--time)
+    - [DevOps](#devops)
     - [Email](#email)
     - [Exception Handling](#exception-handling)
     - [File Manipulation](#file-manipulation)
@@ -77,6 +78,7 @@ We also recommend these lists.
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
 * [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
+* [Homer](https://metacpan.org/pod/Homer) - Simple Prototype-based object system.
 
 ## CLI
 
@@ -105,6 +107,12 @@ We also recommend these lists.
 * [TOML](https://metacpan.org/pod/TOML)
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
 * [YAML](https://metacpan.org/pod/YAML)
+
+## DevOps Tools
+
+*Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
+
+* [Rex](https://metacpan.org/Rex) - Remote Execution
 
 ## Database
 
@@ -163,6 +171,7 @@ We also recommend these lists.
 ## File Manipulation
 
 * [Path::Tiny](https://metacpan.org/pod/Path::Tiny) - Simple object-oriented file manipulation.
+* [File::Util](https://metacpan.org/pod/File::Util) - Easy, versatile, portable file handling.
 
 ## Form Frameworks
 
@@ -204,6 +213,13 @@ We also recommend these lists.
 
 * [DOCSIS::ConfigFile](https://metacpan.org/pod/DOCSIS::ConfigFile) -  Decodes and encodes DOCSIS config files
 * [NetAddr::MAC](https://metacpan.org/pod/NetAddr::MAC) - Handle MAC addresses
+
+*Libraries that help when you are working across computer networks*
+
+* [Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - SSH wrapper to execute remote commands.
+* [SSH::Command](https://metacpan.org/pod/SSH::Command) - interface to execute multiple commands on host by SSH protocol without certificates.
+* [MOI::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
+
 
 ## ORM
 
@@ -275,12 +291,13 @@ We also recommend these lists.
 * [Text::Template](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
 * [Text::Xslate](https://metacpan.org/pod/Text::Xslate) - Faster template engine with XS. Supports multiple syntaxes.
 * [Tiffany](https://metacpan.org/pod/Tiffany) - Generic interface for template engines. It makes it easy to use multiple template engines.
-
+* [Template::Magic](https://metacpan.org/pod/Template::Magic) - Magic merger of runtime values with templates.
 
 ## Testing
 
 *Libraries for testing codebases and generating test data.*
 
+<<<<<<< HEAD
 ### Testing Frameworks
 
 * [Test::Base](https://metacpan.org/pod/Test::Base) - A Data Driven Testing Framework
@@ -291,6 +308,7 @@ We also recommend these lists.
 * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
 * [Test::Kantan](https://metacpan.org/pod/Test::Kantan) - simple, flexible, fun "Testing framework"
 * [Test::More](https://metacpan.org/pod/Test::More)
+* [Test::Harness](https://metacpan.org/pod/Test::Harness) - Run Perl standard test scripts with statistics
 
 ### Test Double
 
@@ -317,6 +335,16 @@ We also recommend these lists.
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) - Colored pretty-print of Perl data structures and objects.
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
 * [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
+
+*Librairies for developping command line applications*
+
+* [Toolbox::Simple](https://metacpan.org/pod/Toolbox::Simple) - Simplfy some common tasks in Perl.
+* [Script::Toolbox](https://metacpan.org/pod/Script::Toolbox) - Framework for the daily business scripts.
+* [Devel::Kit](https://metacpan.org/pod/Devel::Kit)- Handy toolbox of things to ease development/debugging.
+
+*Librairies for handling configuration files*
+
+* [Config::Tiny](https://metacpan.org/pod/Config::Tiny) - Read/Write .ini style files with as little code as possible
 
 ## Web Frameworks
 
