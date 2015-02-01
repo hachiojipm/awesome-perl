@@ -297,7 +297,6 @@ We also recommend these lists.
 
 *Libraries for testing codebases and generating test data.*
 
-<<<<<<< HEAD
 ### Testing Frameworks
 
 * [Test::Base](https://metacpan.org/pod/Test::Base) - A Data Driven Testing Framework
