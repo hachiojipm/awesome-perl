@@ -114,7 +114,7 @@ We also recommend these lists.
 
 *Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
 
-* [Rex](https://metacpan.org/Rex) - Remote Execution
+* [Rex](https://metacpan.org/pod/Rex) - Remote Execution
 
 ## Database
 
