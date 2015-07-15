@@ -26,7 +26,7 @@ We also recommend these lists.
         - [Relational Databases](#relational-databases)
         - [NoSQL Databases](#nosql-databases)
     - [Date & Time](#date--time)
-    - [DevOps](#devops)
+    - [DevOps](#devops-tools)
     - [Email](#email)
     - [Exception Handling](#exception-handling)
     - [File Manipulation](#file-manipulation)
@@ -110,12 +110,6 @@ We also recommend these lists.
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
 * [YAML](https://metacpan.org/pod/YAML)
 
-## DevOps Tools
-
-*Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
-
-* [Rex](https://metacpan.org/pod/Rex) - Remote Execution
-
 ## Database
 
 *Libraries for dealing with relational databases*
@@ -154,6 +148,12 @@ We also recommend these lists.
 * [DateTime](https://metacpan.org/pod/DateTime)
 * [Time::Moment](https://metacpan.org/pod/Time::Moment)
 * [Time::Piece](https://metacpan.org/pod/Time::Piece)
+
+## DevOps Tools
+
+*Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
+
+* [Rex](https://metacpan.org/pod/Rex) - Remote Execution
 
 ## Email
 
