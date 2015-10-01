@@ -129,9 +129,12 @@ We also recommend these lists.
 ### Relational Databases
 
 * [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
+* [DBD::Firebird](https://metacpan.org/pod/DBD::Firebird)
+* [DBD::ODBC](https://metacpan.org/pod/DBD::ODBC - Any ODBC Driver. MS-SQL w/ placeholders)
 * [DBD::Oracle](https://metacpan.org/pod/DBD::Oracle) - Oracle database driver for the DBI module
 * [DBD::Pg](https://metacpan.org/pod/DBD::Pg) - PostgreSQL driver for DBI.
 * [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
+* [DBD::Sybase](https://metacpan.org/pod/DBD::Sybase - Sybase and MS-SQL. No placeholders w/ MS-SQL though)
 
 ### NoSQL Databases
 
