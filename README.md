@@ -28,6 +28,7 @@ We also recommend these lists.
     - [Date & Time](#date--time)
     - [DevOps](#devops-tools)
     - [Email](#email)
+    - [Event Loops](#event-loops)
     - [Exception Handling](#exception-handling)
     - [File Manipulation](#file-manipulation)
     - [Form Frameworks](#form-frameworks)
@@ -130,11 +131,11 @@ We also recommend these lists.
 
 * [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
 * [DBD::Firebird](https://metacpan.org/pod/DBD::Firebird)
-* [DBD::ODBC](https://metacpan.org/pod/DBD::ODBC - Any ODBC Driver. MS-SQL w/ placeholders)
+* [DBD::ODBC](https://metacpan.org/pod/DBD::ODBC) - Any ODBC Driver. MS-SQL w/ placeholders
 * [DBD::Oracle](https://metacpan.org/pod/DBD::Oracle) - Oracle database driver for the DBI module
 * [DBD::Pg](https://metacpan.org/pod/DBD::Pg) - PostgreSQL driver for DBI.
 * [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
-* [DBD::Sybase](https://metacpan.org/pod/DBD::Sybase - Sybase and MS-SQL. No placeholders w/ MS-SQL though)
+* [DBD::Sybase](https://metacpan.org/pod/DBD::Sybase) - Sybase and MS-SQL. No placeholders w/ MS-SQL though
 
 ### NoSQL Databases
 
@@ -163,6 +164,17 @@ We also recommend these lists.
 *Libraries that implement email creation and sending*
 
 * [Email::Sender](https://metacpan.org/pod/Email::Sender)
+
+## Event Loops
+
+*Libraries for various event loops. Asynchronous programming if you like*
+
+* [AE](https://metacpan.org/pod/AE) - Simpler, faster, newer AnyEvent API
+* [AnyEvent](https://metacpan.org/pod/AnyEvent) - the DBI of event loop programming
+* [EV](https://metacpan.org/pod/EV) - Uses libev, very fast and popular. Default for AnyEvent if present
+* [Event](https://metacpan.org/pod/Event) - Works well, but older
+* [IO::Async](https://metacpan.org/pod/IO::Async) - Asynchronous event-driven programming
+* [POE](https://metacpan.org/pod/POE) - Common interface for several event loops
 
 ## Exception Handling
 
@@ -257,7 +269,6 @@ We also recommend these lists.
 
 *Libraries for managing processes and threads*
 
-* [AnyEvent](https://metacpan.org/pod/AnyEvent) - the DBI of event loop programming
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
 * [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman](https://github.com/ddollar/foreman)
