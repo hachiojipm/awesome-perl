@@ -77,11 +77,11 @@ We also recommend these lists.
 
 * [Class::Accessor::Lite](https://metacpan.org/pod/Class::Accessor::Lite) - Simple accessor generator.
 * [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy) - Generate lazy accessors.
+* [Homer](https://metacpan.org/pod/Homer) - Simple Prototype-based object system.
 * [Mo](https://metacpan.org/pod/Mo) - Micro Objects. Mo is less.
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
 * [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
-* [Homer](https://metacpan.org/pod/Homer) - Simple Prototype-based object system.
 
 ## CLI
 
@@ -106,6 +106,8 @@ We also recommend these lists.
 * [JSON::XS](https://metacpan.org/pod/JSON::XS)
 * [Sereal](https://metacpan.org/pod/Sereal)
 * [Storable](https://metacpan.org/pod/Storable)
+* [Text::CSV](https://metacpan.org/pod/Text::CSV)
+* [Text::CSV_XS](https://metacpan.org/pod/Text::CSV_XS)
 * [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
 * [TOML](https://metacpan.org/pod/TOML)
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
@@ -129,8 +131,9 @@ We also recommend these lists.
 
 ### Relational Databases
 
-* [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
+* [DBD::CSV](https://metacpan.org/pod/DBD::CSV)
 * [DBD::Firebird](https://metacpan.org/pod/DBD::Firebird)
+* [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
 * [DBD::ODBC](https://metacpan.org/pod/DBD::ODBC) - Any ODBC Driver. MS-SQL w/ placeholders
 * [DBD::Oracle](https://metacpan.org/pod/DBD::Oracle) - Oracle database driver for the DBI module
 * [DBD::Pg](https://metacpan.org/pod/DBD::Pg) - PostgreSQL driver for DBI.
@@ -244,9 +247,9 @@ We also recommend these lists.
 
 *Libraries that help when you are working across computer networks*
 
+* [MIO::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
 * [Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - SSH wrapper to execute remote commands.
 * [SSH::Command](https://metacpan.org/pod/SSH::Command) - interface to execute multiple commands on host by SSH protocol without certificates.
-* [MOI::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
 
 
 ## ORM
@@ -288,25 +291,28 @@ We also recommend these lists.
 * [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Minimal and fast client. Included in the standard packages.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
 * [Net::DHCP](https://metacpan.org/pod/Net::DHCP) - Send and recieve DHCP packets
+* [Net::DNS](https://metacpan.org/pod/Net::DNS) - Resolve DNS host names
 
 ## Queueing
 
 *Message Queue, Job Queue System..*
 
 * [Gearman](https://metacpan.org/pod/Gearman)
+* [Net::RabbitMQ](https://metacpan.org/pod/Net::RabbitMQ)
+* [Net::STOMP](https://metacpan.org/pod/Net::STOMP)
 * [Qudo](https://metacpan.org/pod/Qudo)
 * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
 
 ## Science/Numerics
 *Hand-picked modules for research, science, numerics and hyper-computing*
 
-* [BioPerl](https://metacpan.org/pod/distribution/BioPerl/BioPerl.pm)
+* [BioPerl](https://metacpan.org/pod/BioPerl)
 * [PDL](http://pdl.perl.org/)
 * [PDL (CPAN)](https://metacpan.org/pod/PDL)
-* [PDL::IO::*](https://metacpan.org/search?q=PDL%3A%3AIO&size=20)
-* [PDL::Stats](https://metacpan.org/pod/PDL::Stats)
-* [PDL::LinearAlgebra](https://metacpan.org/pod/PDL::LinearAlgebra)
 * [PDL::Graphics::Gnuplot](https://metacpan.org/pod/PDL::Graphics::Gnuplot)
+* [PDL::IO::*](https://metacpan.org/search?q=PDL%3A%3AIO&size=20)
+* [PDL::LinearAlgebra](https://metacpan.org/pod/PDL::LinearAlgebra)
+* [PDL::Stats](https://metacpan.org/pod/PDL::Stats)
 * [Physics::*](https://metacpan.org/search?q=physics%3A%3A&size=20)
 
 
@@ -324,6 +330,7 @@ We also recommend these lists.
 
 *Libraries and tools for templating*
 
+* [HTML::Template](https://metacpan.org/pod/HTML::Template) - Templates for web pages
 * [Template::Alloy](https://metacpan.org/pod/Template::Alloy) - TT2/3, HT, HTE, Tmpl, and Velocity Engine
 * [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) - Very Popular Template Processing System
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) - Fast, simple and safe template engine written in pure-Perl and core modules.
@@ -345,9 +352,9 @@ We also recommend these lists.
 * [Test::Class](https://metacpan.org/pod/Test::Class) - Class-based testing. Support "setup" and "teardown".
 * [Test::Deep](https://metacpan.org/pod/Test::Deep) - Test deep and complex data structures with great flexibility.
 * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
+* [Test::Harness](https://metacpan.org/pod/Test::Harness) - Run Perl standard test scripts with statistics
 * [Test::Kantan](https://metacpan.org/pod/Test::Kantan) - simple, flexible, fun "Testing framework"
 * [Test::More](https://metacpan.org/pod/Test::More)
-* [Test::Harness](https://metacpan.org/pod/Test::Harness) - Run Perl standard test scripts with statistics
 
 ### Test Double
 
