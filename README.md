@@ -77,11 +77,11 @@ We also recommend these lists.
 
 * [Class::Accessor::Lite](https://metacpan.org/pod/Class::Accessor::Lite) - Simple accessor generator.
 * [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy) - Generate lazy accessors.
+* [Homer](https://metacpan.org/pod/Homer) - Simple Prototype-based object system.
 * [Mo](https://metacpan.org/pod/Mo) - Micro Objects. Mo is less.
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
 * [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
-* [Homer](https://metacpan.org/pod/Homer) - Simple Prototype-based object system.
 
 ## CLI
 
@@ -129,8 +129,8 @@ We also recommend these lists.
 
 ### Relational Databases
 
-* [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
 * [DBD::Firebird](https://metacpan.org/pod/DBD::Firebird)
+* [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
 * [DBD::ODBC](https://metacpan.org/pod/DBD::ODBC) - Any ODBC Driver. MS-SQL w/ placeholders
 * [DBD::Oracle](https://metacpan.org/pod/DBD::Oracle) - Oracle database driver for the DBI module
 * [DBD::Pg](https://metacpan.org/pod/DBD::Pg) - PostgreSQL driver for DBI.
@@ -244,9 +244,9 @@ We also recommend these lists.
 
 *Libraries that help when you are working across computer networks*
 
+* [MIO::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
 * [Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - SSH wrapper to execute remote commands.
 * [SSH::Command](https://metacpan.org/pod/SSH::Command) - interface to execute multiple commands on host by SSH protocol without certificates.
-* [MOI::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
 
 
 ## ORM
@@ -300,13 +300,13 @@ We also recommend these lists.
 ## Science/Numerics
 *Hand-picked modules for research, science, numerics and hyper-computing*
 
-* [BioPerl](https://metacpan.org/pod/distribution/BioPerl/BioPerl.pm)
+* [BioPerl](https://metacpan.org/pod/BioPerl)
 * [PDL](http://pdl.perl.org/)
 * [PDL (CPAN)](https://metacpan.org/pod/PDL)
-* [PDL::IO::*](https://metacpan.org/search?q=PDL%3A%3AIO&size=20)
-* [PDL::Stats](https://metacpan.org/pod/PDL::Stats)
-* [PDL::LinearAlgebra](https://metacpan.org/pod/PDL::LinearAlgebra)
 * [PDL::Graphics::Gnuplot](https://metacpan.org/pod/PDL::Graphics::Gnuplot)
+* [PDL::IO::*](https://metacpan.org/search?q=PDL%3A%3AIO&size=20)
+* [PDL::LinearAlgebra](https://metacpan.org/pod/PDL::LinearAlgebra)
+* [PDL::Stats](https://metacpan.org/pod/PDL::Stats)
 * [Physics::*](https://metacpan.org/search?q=physics%3A%3A&size=20)
 
 
@@ -345,9 +345,9 @@ We also recommend these lists.
 * [Test::Class](https://metacpan.org/pod/Test::Class) - Class-based testing. Support "setup" and "teardown".
 * [Test::Deep](https://metacpan.org/pod/Test::Deep) - Test deep and complex data structures with great flexibility.
 * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
+* [Test::Harness](https://metacpan.org/pod/Test::Harness) - Run Perl standard test scripts with statistics
 * [Test::Kantan](https://metacpan.org/pod/Test::Kantan) - simple, flexible, fun "Testing framework"
 * [Test::More](https://metacpan.org/pod/Test::More)
-* [Test::Harness](https://metacpan.org/pod/Test::Harness) - Run Perl standard test scripts with statistics
 
 ### Test Double
 
