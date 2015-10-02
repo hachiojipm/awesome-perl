@@ -106,6 +106,8 @@ We also recommend these lists.
 * [JSON::XS](https://metacpan.org/pod/JSON::XS)
 * [Sereal](https://metacpan.org/pod/Sereal)
 * [Storable](https://metacpan.org/pod/Storable)
+* [Text::CSV](https://metacpan.org/pod/Text::CSV)
+* [Text::CSV_XS](https://metacpan.org/pod/Text::CSV_XS)
 * [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
 * [TOML](https://metacpan.org/pod/TOML)
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
@@ -129,6 +131,7 @@ We also recommend these lists.
 
 ### Relational Databases
 
+* [DBD::CSV](https://metacpan.org/pod/DBD::CSV)
 * [DBD::Firebird](https://metacpan.org/pod/DBD::Firebird)
 * [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
 * [DBD::ODBC](https://metacpan.org/pod/DBD::ODBC) - Any ODBC Driver. MS-SQL w/ placeholders
@@ -288,12 +291,15 @@ We also recommend these lists.
 * [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Minimal and fast client. Included in the standard packages.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
 * [Net::DHCP](https://metacpan.org/pod/Net::DHCP) - Send and recieve DHCP packets
+* [Net::DNS](https://metacpan.org/pod/Net::DNS) - Resolve DNS host names
 
 ## Queueing
 
 *Message Queue, Job Queue System..*
 
 * [Gearman](https://metacpan.org/pod/Gearman)
+* [Net::RabbitMQ](https://metacpan.org/pod/Net::RabbitMQ)
+* [Net::STOMP](https://metacpan.org/pod/Net::STOMP)
 * [Qudo](https://metacpan.org/pod/Qudo)
 * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
 
@@ -324,6 +330,7 @@ We also recommend these lists.
 
 *Libraries and tools for templating*
 
+* [HTML::Template](https://metacpan.org/pod/HTML::Template) - Templates for web pages
 * [Template::Alloy](https://metacpan.org/pod/Template::Alloy) - TT2/3, HT, HTE, Tmpl, and Velocity Engine
 * [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) - Very Popular Template Processing System
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) - Fast, simple and safe template engine written in pure-Perl and core modules.
