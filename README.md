@@ -200,12 +200,13 @@ We also recommend these lists.
 
 *Libraries that take the boredom & repetition out of (web and UI) forms*
 
-* [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst::Controller::HTML::FormFu) - Use HTML::FormFu in Catalyst
-* [CGI::FormBuilder](https://metacpan.org/pod/CGI::FormBuilder) - Easily generate and process stateful forms
-* [Form::Sensible](https://metacpan.org/pod/Form::Sensible) - A sensible way to handle form based user interface
-* [Form::Toolkit](https://metacpan.org/pod/Form::Toolkit) - A toolkit to build Data centric Forms
-* [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework
-* [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files
+* [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst::Controller::HTML::FormFu) - Use HTML::FormFu in Catalyst.
+* [CGI::FormBuilder](https://metacpan.org/pod/CGI::FormBuilder) - Easily generate and process stateful forms.
+* [Form::Sensible](https://metacpan.org/pod/Form::Sensible) - A sensible way to handle form based user interface.
+* [Form::Toolkit](https://metacpan.org/pod/Form::Toolkit) - A toolkit to build Data centric Forms.
+* [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework.
+* [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files.
+* [Mojolicious::Plugin::FormFields](https://metacpan.org/pod/Mojolicious::Plugin::FormFields) - Lightweight, flexible form builder with validation and filtering.
 * [WWW::Form](https://metacpan.org/pod/WWW::Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
 
 ## Images
