@@ -114,6 +114,7 @@ We also recommend these lists.
 * [TOML](https://metacpan.org/pod/TOML)
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
 * [XML::Compile::Schema](https://metacpan.org/pod/XML::Compile::Schema) - Interpret schema elements and types: create processors for XML messages.
+* [XML::Compile::SOAP](https://metacpan.org/pod/XML::Compile::SOAP) - Implements the SOAP 1.1 protocol, client side.
 * [YAML](https://metacpan.org/pod/YAML)
 
 ## Database
