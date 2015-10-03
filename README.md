@@ -113,6 +113,7 @@ We also recommend these lists.
 * [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
 * [TOML](https://metacpan.org/pod/TOML)
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
+* [XML::Compile::Schema](https://metacpan.org/pod/XML::Compile::Schema) - Interpret schema elements and types: create processors for XML messages.
 * [YAML](https://metacpan.org/pod/YAML)
 
 ## Database
@@ -439,4 +440,3 @@ Other amazingly awesome lists can be found in:
 # How to contribute?
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md)
-
