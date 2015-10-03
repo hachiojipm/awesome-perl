@@ -80,8 +80,9 @@ We also recommend these lists.
 * [Homer](https://metacpan.org/pod/Homer) - Simple Prototype-based object system.
 * [Mo](https://metacpan.org/pod/Mo) - Micro Objects. Mo is less.
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
-* [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose
+* [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose.
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
+* [Object::Tiny](https://metacpan.org/pod/Object::Tiny) - A class builder that is terse, fast, and tiny.
 
 ## CLI
 
