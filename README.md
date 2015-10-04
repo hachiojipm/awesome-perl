@@ -60,6 +60,7 @@ We also recommend these lists.
 *Libraries for argument manifestation and validation.*
 
 * [Data::Validator](https://metacpan.org/pod/Data::Validator) - Rule based validator on type constraint system.
+* [Params::Util](https://metacpan.org/pod/Params::Util) - Simple, compact and correct param-checking functions.
 * [Params::Validate](https://metacpan.org/pod/Params::Validate) - Validate method/function parameters.
 * [Smart::Args](https://metacpan.org/pod/Smart::Args)
 
@@ -80,8 +81,9 @@ We also recommend these lists.
 * [Homer](https://metacpan.org/pod/Homer) - Simple Prototype-based object system.
 * [Mo](https://metacpan.org/pod/Mo) - Micro Objects. Mo is less.
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
-* [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose
+* [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose.
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
+* [Object::Tiny](https://metacpan.org/pod/Object::Tiny) - A class builder that is terse, fast, and tiny.
 
 ## CLI
 
@@ -111,6 +113,9 @@ We also recommend these lists.
 * [Text::Markdown](https://metacpan.org/pod/Text::Markdown)
 * [TOML](https://metacpan.org/pod/TOML)
 * [XML::LibXML](https://metacpan.org/pod/XML::LibXML)
+* [XML::Compile::Schema](https://metacpan.org/pod/XML::Compile::Schema) - Interpret schema elements and types: create processors for XML messages.
+* [XML::Compile::SOAP](https://metacpan.org/pod/XML::Compile::SOAP) - Implements the SOAP 1.1 protocol, client side.
+* [XML::Compile::WSDL](https://metacpan.org/pod/XML::Compile::WSDL) - Use SOAP with a WSDL version 1.1 communication specification file.
 * [YAML](https://metacpan.org/pod/YAML)
 
 ## Database
@@ -198,12 +203,13 @@ We also recommend these lists.
 
 *Libraries that take the boredom & repetition out of (web and UI) forms*
 
-* [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst::Controller::HTML::FormFu) - Use HTML::FormFu in Catalyst
-* [CGI::FormBuilder](https://metacpan.org/pod/CGI::FormBuilder) - Easily generate and process stateful forms
-* [Form::Sensible](https://metacpan.org/pod/Form::Sensible) - A sensible way to handle form based user interface
-* [Form::Toolkit](https://metacpan.org/pod/Form::Toolkit) - A toolkit to build Data centric Forms
-* [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework
-* [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files
+* [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst::Controller::HTML::FormFu) - Use HTML::FormFu in Catalyst.
+* [CGI::FormBuilder](https://metacpan.org/pod/CGI::FormBuilder) - Easily generate and process stateful forms.
+* [Form::Sensible](https://metacpan.org/pod/Form::Sensible) - A sensible way to handle form based user interface.
+* [Form::Toolkit](https://metacpan.org/pod/Form::Toolkit) - A toolkit to build Data centric Forms.
+* [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework.
+* [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files.
+* [Mojolicious::Plugin::FormFields](https://metacpan.org/pod/Mojolicious::Plugin::FormFields) - Lightweight, flexible form builder with validation and filtering.
 * [WWW::Form](https://metacpan.org/pod/WWW::Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
 
 ## Images
@@ -436,4 +442,3 @@ Other amazingly awesome lists can be found in:
 # How to contribute?
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md)
-
