@@ -305,7 +305,7 @@ We also recommend these lists.
 
 * [Gearman](https://metacpan.org/pod/Gearman)
 * [Net::RabbitMQ](https://metacpan.org/pod/Net::RabbitMQ)
-* [Net::STOMP](https://metacpan.org/pod/Net::STOMP)
+* [Net::Stomp](https://metacpan.org/pod/Net::Stomp)
 * [Qudo](https://metacpan.org/pod/Qudo)
 * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
 
