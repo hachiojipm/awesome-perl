@@ -54,6 +54,7 @@ We also recommend these lists.
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
     - [Web Frameworks-Like](#web-frameworks-like)
+    - [Web Scraping](#web-scraping)
 
 ## Args
 
@@ -307,12 +308,14 @@ We also recommend these lists.
 * [Net::RabbitMQ](https://metacpan.org/pod/Net::RabbitMQ)
 * [Net::Stomp](https://metacpan.org/pod/Net::Stomp)
 * [Qudo](https://metacpan.org/pod/Qudo)
+* [Resque](https://metacpan.org/pod/Resque)
 * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
 
 ## Science/Numerics
 *Hand-picked modules for research, science, numerics and hyper-computing*
 
 * [BioPerl](https://metacpan.org/pod/BioPerl)
+* [Chart::Clicker](https://metacpan.org/pod/Chart::Clicker) - Powerful, extensible charting
 * [PDL](http://pdl.perl.org/)
 * [PDL (CPAN)](https://metacpan.org/pod/PDL)
 * [PDL::Graphics::Gnuplot](https://metacpan.org/pod/PDL::Graphics::Gnuplot)
@@ -428,6 +431,12 @@ We also recommend these lists.
 
 * [Embperl](https://metacpan.org/pod/Embperl) - Building dynamic Websites with Perl (sort of like Perl crossed with PHP)
 * [Mason](https://metacpan.org/pod/Mason) - Powerful, high-performance templating for the web and beyond
+
+## Web Scraping
+
+*Libraries for extracting some information from websites*
+
+* [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
 
 # Other Awesome Lists
 
