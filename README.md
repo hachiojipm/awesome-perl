@@ -434,7 +434,7 @@ We also recommend these lists.
 
 ## Web Scraping
 
-*Libraries to extract some information from websites*
+*Libraries for extracting some information from websites*
 
 * [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
 
