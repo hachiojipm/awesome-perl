@@ -308,6 +308,7 @@ We also recommend these lists.
 * [Net::RabbitMQ](https://metacpan.org/pod/Net::RabbitMQ)
 * [Net::Stomp](https://metacpan.org/pod/Net::Stomp)
 * [Qudo](https://metacpan.org/pod/Qudo)
+* [Resque](https://metacpan.org/pod/Resque)
 * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
 
 ## Science/Numerics
