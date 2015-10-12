@@ -54,6 +54,7 @@ We also recommend these lists.
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
     - [Web Frameworks-Like](#web-frameworks-like)
+    - [Web Scraping](#web-scraping)
 
 ## Args
 
@@ -429,6 +430,12 @@ We also recommend these lists.
 
 * [Embperl](https://metacpan.org/pod/Embperl) - Building dynamic Websites with Perl (sort of like Perl crossed with PHP)
 * [Mason](https://metacpan.org/pod/Mason) - Powerful, high-performance templating for the web and beyond
+
+## Web Scraping
+
+*Libraries to extract some information from websites*
+
+* [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
 
 # Other Awesome Lists
 
