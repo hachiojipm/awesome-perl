@@ -313,6 +313,7 @@ We also recommend these lists.
 *Hand-picked modules for research, science, numerics and hyper-computing*
 
 * [BioPerl](https://metacpan.org/pod/BioPerl)
+* [Chart::Clicker](https://metacpan.org/pod/Chart::Clicker) - Powerful, extensible charting
 * [PDL](http://pdl.perl.org/)
 * [PDL (CPAN)](https://metacpan.org/pod/PDL)
 * [PDL::Graphics::Gnuplot](https://metacpan.org/pod/PDL::Graphics::Gnuplot)
