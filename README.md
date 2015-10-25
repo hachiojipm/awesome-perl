@@ -10,6 +10,7 @@ We also recommend these lists.
 
 * [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho "Task::Kensho")
 * [PerlMaven.com list of Perl Software](http://perlmaven.com/perl-based-open-source-products)
+* [Slaven's CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod)
 * Many Task::** Modules. (ex. Task::Plack, Task::BeLike::<AuthorName>...)
 
 ### Contents
