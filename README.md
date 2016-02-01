@@ -211,6 +211,7 @@ We also recommend these lists.
 * [Form::Toolkit](https://metacpan.org/pod/Form::Toolkit) - A toolkit to build Data centric Forms.
 * [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) - HTML Form Creation, Rendering and Validation Framework.
 * [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) - ExtJS form generation from HTML::FormFu config files.
+* [HTML::FormHandler](https://metacpan.org/pod/HTML::FormHandler) - HTML forms using Moose.
 * [Mojolicious::Plugin::FormFields](https://metacpan.org/pod/Mojolicious::Plugin::FormFields) - Lightweight, flexible form builder with validation and filtering.
 * [WWW::Form](https://metacpan.org/pod/WWW::Form) - Simple and extendable module that allows developers to handle HTML form input validation and display flexibly and consistently.
 
