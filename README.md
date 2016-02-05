@@ -217,14 +217,14 @@ We also recommend these lists.
 
 ## Images
 
-*Libraries for manipulating images.*
+*Libraries for manipulating images*
 
 * [Image::Magick](https://metacpan.org/pod/Image::Magick) - An object-oriented interface to ImageMagick's image composing libraries.
 * [Imager](https://metacpan.org/pod/Imager)
 
 ## List Manipulation
 
-*Libraries for manipulation lists (arrays).*
+*Libraries for manipulation lists (arrays)*
 
 * [Array::Unique](https://metacpan.org/pod/Array::Unique) - Tie-able array that allows only unique values
 * [List::Compare](https://metacpan.org/pod/List::Compare) - Compare elements of two or more lists
@@ -259,7 +259,6 @@ We also recommend these lists.
 * [MIO::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
 * [Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - SSH wrapper to execute remote commands.
 * [SSH::Command](https://metacpan.org/pod/SSH::Command) - interface to execute multiple commands on host by SSH protocol without certificates.
-
 
 ## ORM
 
@@ -325,7 +324,6 @@ We also recommend these lists.
 * [PDL::LinearAlgebra](https://metacpan.org/pod/PDL::LinearAlgebra)
 * [PDL::Stats](https://metacpan.org/pod/PDL::Stats)
 * [Physics::*](https://metacpan.org/search?q=physics%3A%3A&size=20)
-
 
 ## REST Frameworks
 
@@ -393,13 +391,13 @@ We also recommend these lists.
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
 * [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
 
-*Librairies for developping command line applications*
+*Libraries for developping command line applications*
 
 * [Toolbox::Simple](https://metacpan.org/pod/Toolbox::Simple) - Simplfy some common tasks in Perl.
 * [Script::Toolbox](https://metacpan.org/pod/Script::Toolbox) - Framework for the daily business scripts.
 * [Devel::Kit](https://metacpan.org/pod/Devel::Kit)- Handy toolbox of things to ease development/debugging.
 
-*Librairies for handling configuration files*
+*Libraries for handling configuration files*
 
 * [Config::Tiny](https://metacpan.org/pod/Config::Tiny) - Read/Write .ini style files with as little code as possible
 
@@ -418,7 +416,7 @@ We also recommend these lists.
 
 ### Middlewares
 
-*Libraries for creating HTTP middlewares.*
+*Libraries for creating HTTP middlewares*
 
 * [Gazelle](https://metacpan.org/pod/Gazelle) - Preforked Plack Handler for performance freaks
 * [Plack](https://metacpan.org/pod/Plack) - PSGI server implementation and utilities for Web applications.
