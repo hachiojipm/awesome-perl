@@ -20,6 +20,7 @@ We also recommend these lists.
     - [Benchmarks](#benchmarks)
     - [Class Builder](#class-builder)
     - [CLI](#cli)
+    - [Cloud](#cloud)
     - [Container](#container)
     - [Data Format](#data-format)
     - [Database](#database)
@@ -93,6 +94,15 @@ We also recommend these lists.
 
 * [App::Cmd](https://metacpan.org/pod/App::Cmd) - Write command line apps with less suffering.
 * [Getopt::Long](https://metacpan.org/pod/Getopt::Long) - Extended processing of command line options.
+
+## Cloud
+
+* [AWS::CloudFront](https://metacpan.org/pod/AWS::CloudFront) - Lightweight interface to Amazon CloudFront CDN
+* [AWS::S3](https://metacpan.org/pod/AWS::S3) - Lightweight interface to Amazon S3 (Simple Storage Service)
+* [Net::Amazon::EC2](https://metacpan.org/pod/Net::Amazon::EC2) - Interface to the Amazon Elastic Compute Cloud (EC2) environment.
+* [Net::AWS::SES](https://metacpan.org/pod/Net::AWS::SES) - Perl extension that implements Amazon Simple Email Service (SES) client
+* [WebService::DigitalOcean](https://metacpan.org/pod/WebService::DigitalOcean) - Access the DigitalOcean RESTful API (v2)
+* [WebService::Dropbox](https://metacpan.org/pod/WebService::Dropbox) - Interface to Dropbox API
 
 ## Container
 
