@@ -17,6 +17,7 @@ We also recommend these lists.
 
 - [Awesome Perl](#awesome-perl)
     - [Args](#args)
+    - [Audio](#audio)
     - [Benchmarks](#benchmarks)
     - [Class Builder](#class-builder)
     - [CLI](#cli)
@@ -53,6 +54,7 @@ We also recommend these lists.
         - [Test Double](#test-double)
         - [Coverage](#coverage)
     - [Tools](#tools)
+    - [Video](#video)
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
     - [Web Frameworks-Like](#web-frameworks-like)
@@ -66,6 +68,11 @@ We also recommend these lists.
 * [Params::Util](https://metacpan.org/pod/Params::Util) - Simple, compact and correct param-checking functions.
 * [Params::Validate](https://metacpan.org/pod/Params::Validate) - Validate method/function parameters.
 * [Smart::Args](https://metacpan.org/pod/Smart::Args)
+
+## Audio
+
+* [Audio::CD](https://metacpan.org/pod/Audio::CD) - Interface to libcdaudio (cd + cddb)
+* [Audio::Wav](https://metacpan.org/pod/Audio::Wav) - Modules for reading & writing Microsoft WAV files.
 
 ## Benchmarks
 
@@ -410,6 +417,11 @@ We also recommend these lists.
 *Libraries for handling configuration files*
 
 * [Config::Tiny](https://metacpan.org/pod/Config::Tiny) - Read/Write .ini style files with as little code as possible
+
+## Video
+
+* [FFmpeg](https://metacpan.org/pod/FFmpeg) - Interface to FFmpeg, a video converter written in C
+* [Video::Info](https://metacpan.org/pod/Video::Info) - Retrieve video properties such as: height width codec fps
 
 ## Web Frameworks
 
