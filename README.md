@@ -19,6 +19,7 @@ We also recommend these lists.
     - [Args](#args)
     - [Audio](#audio)
     - [Benchmarks](#benchmarks)
+    - [Caches](#caches)
     - [Class Builder](#class-builder)
     - [CLI](#cli)
     - [Cloud](#cloud)
@@ -81,6 +82,21 @@ We also recommend these lists.
 * [Benchmark](https://metacpan.org/pod/Benchmark)
 * [Dumbbench](https://metacpan.org/pod/Dumbbench)
 * [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) - Benchmark in multiprocesses
+
+## Caches
+
+*Libraries to talk to Cache Softwares*
+
+* [CHI](https://metacpan.org/pod/CHI) - Unified cache handling interface, think DBI for caches
+* [CHI::Driver::DBI](https://metacpan.org/pod/CHI::Driver::DBI) - DBI driver for CHI
+* [CHI::Driver::DBIC](https://metacpan.org/pod/CHI::Driver::DBIC) - DBIx::Class driver for CHI
+* [CHI::Driver::Memcached](https://metacpan.org/pod/CHI::Driver::Memcached) - Memcached driver for CHI
+* [CHI::Driver::MongoDB](https://metacpan.org/pod/CHI::Driver::MongoDB) - MongoDB driver for CHI
+* [CHI::Driver::Redis](https://metacpan.org/pod/CHI::Driver::Redis) - Redis driver for CHI
+* [Catalyst::Plugin::Session::Store::CHI](https://metacpan.org/pod/Catalyst::Plugin::Session::Store::CHI) -  Use CHI module to handle storage backend for session data
+* [CGI::Application::Plugin::CHI](https://metacpan.org/pod/CGI::Application::Plugin::CHI) - CGI-App plugin for CHI caching interface
+* [Mojolicious::Plugin::CHI](https://metacpan.org/pod/Mojolicious::Plugin::CHI) - Interact with CHI caches
+
 
 ## Class Builder
 
