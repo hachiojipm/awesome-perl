@@ -170,6 +170,7 @@ We also recommend these lists.
 * [Mango](https://metacpan.org/pod/Mango) - Pure-Perl non-blocking I/O MongoDB driver
 * [Redis](https://metacpan.org/pod/Redis)
 * [Redis::Fast](https://metacpan.org/pod/Redis::Fast) - Perl wrapper around hiredis driver
+* [Search::Elasticsearch](https://metacpan.org/pod/Search::Elasticsearch) - Offical Elasticsearch client library
 * [UnQLite](https://metacpan.org/pod/UnQLite)
 
 ## Date & Time
