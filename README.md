@@ -23,6 +23,7 @@ We also recommend these lists.
     - [Class Builder](#class-builder)
     - [CLI](#cli)
     - [Cloud](#cloud)
+    - [Commercial WebServices](#commercial-webservices)
     - [Container](#container)
     - [Data Format](#data-format)
     - [Database](#database)
@@ -127,6 +128,14 @@ We also recommend these lists.
 * [Net::AWS::SES](https://metacpan.org/pod/Net::AWS::SES) - Perl extension that implements Amazon Simple Email Service (SES) client
 * [WebService::DigitalOcean](https://metacpan.org/pod/WebService::DigitalOcean) - Access the DigitalOcean RESTful API (v2)
 * [WebService::Dropbox](https://metacpan.org/pod/WebService::Dropbox) - Interface to Dropbox API
+
+## Commercial WebServices
+
+* [Net::Xero](https://metacpan.org/pod/Net::Xero) - Interface to Xero accounting
+* [WebService::Spotify](https://metacpan.org/pod/WebService::Spotify) - A simple interface to the Spotify Web API
+* [WebService::Xero](https://metacpan.org/pod/WebService::Xero) - Access Xero Accounting Package Public and Private Application API
+* [WWW::Shopify](https://metacpan.org/pod/WWW::Shopify) - object representing acess to a particular Shopify store
+* [WWW::Spotify](https://metacpan.org/pod/WWW::Spotify) - Spotify Web API Wrapper
 
 ## Container
 
