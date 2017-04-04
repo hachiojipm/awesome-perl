@@ -30,6 +30,7 @@ We also recommend these lists.
         - [Relational Databases](#relational-databases)
         - [NoSQL Databases](#nosql-databases)
     - [Date & Time](#date--time)
+    - [Devices](#devices)
     - [DevOps](#devops-tools)
     - [Email](#email)
     - [Event Loops](#event-loops)
@@ -196,6 +197,14 @@ We also recommend these lists.
 * [DateTime](https://metacpan.org/pod/DateTime)
 * [Time::Moment](https://metacpan.org/pod/Time::Moment)
 * [Time::Piece](https://metacpan.org/pod/Time::Piece)
+
+## Devices
+
+*Libraries to talk to physical devices*
+i
+* [Device::Modem](https://metacpan.org/pod/Device::Modem) - Talk to modem devices conneted via serial port
+* [Device::Onkyo](https://metacpan.org/pod/Device::Onkyo) - Control Onkyo/Integra AV equipment via LAN or Serial
+
 
 ## DevOps Tools
 
