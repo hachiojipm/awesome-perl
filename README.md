@@ -299,9 +299,15 @@ We also recommend these lists.
 
 *Libraries that help when you are working across computer networks*
 
-* [MIO::SSH](https://metacpan.org/pod/MIO::SSH) - Run multiple SSH commands in parallel.
-* [Net::SSH::Expect](https://metacpan.org/pod/Net::SSH::Expect) - SSH wrapper to execute remote commands.
-* [SSH::Command](https://metacpan.org/pod/SSH::Command) - interface to execute multiple commands on host by SSH protocol without certificates.
+* [Net::SSH::Perl](https://metacpan.org/pod/Net::SSH::Perl) - SSH client implemented in Perl.
+* [Net::SSH2](https://metacpan.org/pod/Net::SSH2) - Wrapper for [libssh2](https://libssh2.org/).
+* [Net::OpenSSH](https://metacpan.org/pod/Net::OpenSSH) - Run commands remotely using the [OpenSSH](http://www.openssh.com/) client.
+* [Net::OpenSSH::Parallel](https://metacpan.org/pod/Net::OpenSSH::Parallel) - Run remote commands in parallel using the OpenSSH client.
+* [Net::SSH::Any](https://metacpan.org/pod/Net::SSH::Any) - Run remote commands using any module or binary client available.
+* [Net::SFTP::Foreign](https://metacpan.org/pod/Net::SFTP::Foreign) - SFTP client for remote file access.
+* [Object::Remote](https://metacpan.org/pod/Object::Remote) - Run Perl code on remote machines.
+* [Net::CLI::Interact](https://metacpan.org/pod/Net::CLI::Interact) - Automates interactive programs.
+* [Net::Appliance::Session](https://metacpan.org/pod/Net::Appliance::Session) - Automates interaction with appliances.
 
 ## ORM
 
