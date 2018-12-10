@@ -147,6 +147,7 @@ We also recommend these lists.
 
 *Libraries for serializing, formatting and parsing*
 
+* [BSON](https://metacpan.org/pod/BSON) - Binary JSON format
 * [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)
