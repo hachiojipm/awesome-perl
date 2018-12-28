@@ -235,6 +235,7 @@ We also recommend these lists.
 
 * [autodie](https://metacpan.org/pod/autodie) - Replace functions with ones that succeed or die with lexical scope
 * [Exception::Class](https://metacpan.org/pod/Exception::Class) - A module that allows you to declare real exception classes in Perl
+* [Syntax::Keyword::Try](https://metacpan.org/pod/Syntax::Keyword::Try) - a try/catch/finally syntax for perl
 * [Throwable](https://metacpan.org/pod/Throwable) - a role for classes that can be thrown
 * [Try::Tiny](https://metacpan.org/pod/Try::Tiny) - minimal try/catch with proper preservation of $@
 * [TryCatch](https://metacpan.org/pod/TryCatch) - first class try catch semantics for Perl, without source filters
