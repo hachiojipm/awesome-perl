@@ -270,10 +270,13 @@ We also recommend these lists.
 *Libraries for manipulation lists (arrays)*
 
 * [Array::Unique](https://metacpan.org/pod/Array::Unique) - Tie-able array that allows only unique values
+* [List::AllUtils](https://metacpan.org/pod/List::AllUtils) - Combines List::Util, List::SomeUtils and List::UtilsBy in one bite-sized package
 * [List::Compare](https://metacpan.org/pod/List::Compare) - Compare elements of two or more lists
 * [List::Gen](https://metacpan.org/pod/List::Gen) - Provides functions for generating lists
 * [List::MoreUtils](https://metacpan.org/pod/List::MoreUtils) - Provide the stuff missing in List::Util
+* [List::SomeUtils](https://metacpan.org/pod/List::SomeUtils) - Provide the stuff missing in List::Util
 * [List::Util](https://metacpan.org/pod/List::Util) - A selection of general-utility list subroutines
+* [List::UtilsBy](https://metacpan.org/pod/List::UtilsBy) - higher-order list utility functions
 
 ## Logging
 
