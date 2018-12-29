@@ -23,6 +23,7 @@ We also recommend these lists.
     - [Class Builder](#class-builder)
     - [CLI](#cli)
     - [Cloud](#cloud)
+    - [Commercial WebServices](#commercial-webservices)
     - [Container](#container)
     - [Data Format](#data-format)
     - [Database](#database)
@@ -128,6 +129,14 @@ We also recommend these lists.
 * [WebService::DigitalOcean](https://metacpan.org/pod/WebService::DigitalOcean) - Access the DigitalOcean RESTful API (v2)
 * [WebService::Dropbox](https://metacpan.org/pod/WebService::Dropbox) - Interface to Dropbox API
 
+## Commercial WebServices
+
+* [Net::Xero](https://metacpan.org/pod/Net::Xero) - Interface to Xero accounting
+* [WebService::Spotify](https://metacpan.org/pod/WebService::Spotify) - A simple interface to the Spotify Web API
+* [WebService::Xero](https://metacpan.org/pod/WebService::Xero) - Access Xero Accounting Package Public and Private Application API
+* [WWW::Shopify](https://metacpan.org/pod/WWW::Shopify) - object representing acess to a particular Shopify store
+* [WWW::Spotify](https://metacpan.org/pod/WWW::Spotify) - Spotify Web API Wrapper
+
 ## Container
 
 *Libraries for Singleton Pattern implementation.*
@@ -138,6 +147,7 @@ We also recommend these lists.
 
 *Libraries for serializing, formatting and parsing*
 
+* [BSON](https://metacpan.org/pod/BSON) - Binary JSON format
 * [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)
