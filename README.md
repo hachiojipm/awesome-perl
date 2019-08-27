@@ -132,6 +132,7 @@ We also recommend these lists.
 ## Commercial WebServices
 
 * [Net::Xero](https://metacpan.org/pod/Net::Xero) - Interface to Xero accounting
+* [PagerDuty::Agent](https://metacpan.org/pod/PagerDuty::Agent) - A perl PagerDuty client
 * [WebService::Spotify](https://metacpan.org/pod/WebService::Spotify) - A simple interface to the Spotify Web API
 * [WebService::Xero](https://metacpan.org/pod/WebService::Xero) - Access Xero Accounting Package Public and Private Application API
 * [WWW::Shopify](https://metacpan.org/pod/WWW::Shopify) - object representing acess to a particular Shopify store
