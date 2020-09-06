@@ -454,6 +454,7 @@ We also recommend these lists.
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) - Colored pretty-print of Perl data structures and objects.
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
 * [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
+* [Smart::Comments](https://metacpan.org/pod/Smart::Comments) - Comments that do more than just sit there.
 
 *Libraries for developping command line applications*
 
