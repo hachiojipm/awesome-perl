@@ -220,7 +220,7 @@ We also recommend these lists.
 
 ## DevOps Tools
 
-*Libraries that help when you what to deploy software across networks ond several hostsare working across computer networks*
+*Libraries that help when you want to deploy software across networks on several hosts/are working across computer networks*
 
 * [Rex](https://metacpan.org/pod/Rex) - Remote Execution
 
