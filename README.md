@@ -113,6 +113,7 @@ We also recommend these lists.
 * [Moose](https://metacpan.org/pod/Moose) - The one and only, Moose.
 * [Mouse](https://metacpan.org/pod/Mouse) - Yet another class builder like Moo/Moose.
 * [Object::Tiny](https://metacpan.org/pod/Object::Tiny) - A class builder that is terse, fast, and tiny.
+* [Object::Pad](https://metacpan.org/pod/Object::Pad) - `class Example { has $x; method reader { return $x } }`, experimental proving-ground for [Cor](https://gist.github.com/Ovid/68b33259cb81c01f9a51612c7a294ede)
 
 ## CLI
 
