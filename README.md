@@ -372,6 +372,7 @@ We also recommend these lists.
 *Message Queue, Job Queue System..*
 
 * [Gearman](https://metacpan.org/pod/Gearman)
+* [Minion](https://docs.mojolicious.org/Minion) - Pure-Perl job queue
 * [Net::RabbitMQ](https://metacpan.org/pod/Net::RabbitMQ)
 * [Net::Stomp](https://metacpan.org/pod/Net::Stomp)
 * [Qudo](https://metacpan.org/pod/Qudo)
