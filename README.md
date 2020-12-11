@@ -369,6 +369,7 @@ We also recommend these lists.
 * [Net::Curl](https://metacpan.org/pod/Net::Curl) - (libcurl)[https://curl.se/libcurl/] integration
 * [Net::DHCP](https://metacpan.org/pod/Net::DHCP) - Send and receive DHCP packets
 * [Net::DNS](https://metacpan.org/pod/Net::DNS) - Resolve DNS host names
+* [Protocol::DBus](https://metacpan.org/pod/Protocol::DBus) - D-Bus in (pure) Perl
 
 ## Queueing
 
