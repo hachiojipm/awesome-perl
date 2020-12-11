@@ -364,6 +364,7 @@ We also recommend these lists.
 * [Furl](https://metacpan.org/pod/Furl) - Faster HTTP(S) Client
 * [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny) - Minimal and fast client. Included in the standard packages.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) - Popular HTTP(S) Client
+* [Net::Curl](https://metacpan.org/pod/Net::Curl) - (libcurl)[https://curl.se/libcurl/] integration
 * [Net::DHCP](https://metacpan.org/pod/Net::DHCP) - Send and receive DHCP packets
 * [Net::DNS](https://metacpan.org/pod/Net::DNS) - Resolve DNS host names
 
