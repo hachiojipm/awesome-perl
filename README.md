@@ -242,6 +242,7 @@ We also recommend these lists.
 * [Event](https://metacpan.org/pod/Event) - Works well, but older
 * [IO::Async](https://metacpan.org/pod/IO::Async) - Asynchronous event-driven programming
 * [POE](https://metacpan.org/pod/POE) - Common interface for several event loops
+* [Promise::XS](https://metacpan.org/pod/Promise::XS) - Promises in Perl
 
 ## Exception Handling
 
