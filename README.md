@@ -52,6 +52,7 @@ We also recommend these lists.
     - [Queueing](#queueing)
     - [REST Frameworks](#rest-frameworks)
     - [Science/Numerics](#sciencenumerics)
+    - [Stream Manipulation](#stream-manipulation)
     - [Template Engines](#template-engines)
     - [Testing](#testing)
         - [Testing Frameworks](#testing-frameworks)
@@ -395,6 +396,12 @@ We also recommend these lists.
 * [PDL::LinearAlgebra](https://metacpan.org/pod/PDL::LinearAlgebra)
 * [PDL::Stats](https://metacpan.org/pod/PDL::Stats)
 * [Physics::*](https://metacpan.org/search?q=physics%3A%3A&size=20)
+
+## Stream Manipulation
+
+*Libraries for manipulating event streams*
+
+* [RxPerl](https://metacpan.org/pod/RxPerl) - Perl implementation of [Reactive Extensions](http://reactivex.io) / rxjs
 
 ## REST Frameworks
 
