@@ -522,6 +522,31 @@ We also recommend these lists.
 
 * [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
 
+## Wireless security and network security libraries
+
+* [Net::Pcap](https://metacpan.org/pod/Net::Pcap) - Interface to the pcap LBL packet capture library
+* [Net::Ncap](https://metacpan.org/pod/Net::Ncap) - Perl binding to the ncap network data capture library
+* [Net::Frame](https://metacpan.org/pod/Net::Frame) - Perl framework for frame crafting
+* [NetPacket](https://metacpan.org/pod/NetPacket) - assemble/disassemble network packets at the protocol level
+* [Net::Write](https://metacpan.org/pod/Net::Write) - portable interface to open and send raw data to network
+* [Net::Analysis](https://metacpan.org/pod/Net::Analysis) - Perl library for analysing network traffic
+* [Net::Silk](https://metacpan.org/pod/Net::Silk) - Perl's Interface to the SiLK network flow library
+* [Net::Inspect](https://metacpan.org/pod/Net::Inspect) - Perl library for inspection of data on various network layers
+* [Net::Tshark](https://metacpan.org/pod/Net::Tshark) - Perl interface for Tshark network capture utility 
+* [Net::Sharktools](https://metacpan.org/pod/Net::Sharktools) - Wireshark's packet inspection capabilities in Perl
+* [File::PCAP](https://metacpan.org/pod/File::PCAP) - Read, Write and manipulate  PCAP file format through Perl
+* [Net::P0f](https://metacpan.org/pod/Net::P0f) - Perl interface to p0f utility, usefull for finger-printing os
+* [Net::Pcap::Reassemble](https://metacpan.org/pod/Net::Pcap::Reassemble) - Perl IP fragment reassembly for Net::Pcap
+* [Nagios::NRPE](https://metacpan.org/pod/Nagios::NRPE) - Pure perl Nagios NRPE implementation
+* [Monitoring::Plugin](https://metacpan.org/pod/Monitoring::Plugin) -  A family of perl modules to streamline writing Naemon, Nagios, Icinga or Shinken (and compatible) plugins
+* [Net::Connection::Sniffer](https://metacpan.org/pod/Net::Connection::Sniffer) - practical Perl library for MiTM connections
+* [Net::ARP](https://metacpan.org/pod/Net::ARP) - Library for crafting ARP packets
+* [SNMPMonitor](https://metacpan.org/pod/SNMPMonitor) - Perl extension for writing SNMP Monitors
+* [Net::LibNIDS](https://metacpan.org/pod/Net::LibNIDS) - Perl interface for the Network Intrusion Detection System library
+* [Parse::Snort](https://metacpan.org/pod/Parse::Snort) - Perl Snort rules parser
+* [Net::Wireless::802_11::WPA::CLI](https://metacpan.org/pod/Net::Wireless::802_11::WPA::CLI) - Perl WPA_CLI interface
+* [IO::Socket::SSL::Intercept](https://metacpan.org/IO::Socket::SSL::Intercept) - library for intercepting SSL connections through Perl
+
 # Other Awesome Lists
 
 Other amazingly awesome lists can be found in:
