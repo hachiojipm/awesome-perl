@@ -64,6 +64,7 @@ We also recommend these lists.
         - [Middlewares](#middlewares)
     - [Web Frameworks-Like](#web-frameworks-like)
     - [Web Scraping](#web-scraping)
+    - [Network Security](#Network-Security)
 
 ## Args
 
@@ -522,7 +523,10 @@ We also recommend these lists.
 
 * [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
 
-## Wireless security and network security libraries
+## Network Security
+
+*Some great libraries for starting the world of Network security with Perl*
+
 
 * [Net::Pcap](https://metacpan.org/pod/Net::Pcap) - Interface to the pcap LBL packet capture library
 * [Net::Ncap](https://metacpan.org/pod/Net::Ncap) - Perl binding to the ncap network data capture library
