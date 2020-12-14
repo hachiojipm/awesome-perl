@@ -232,6 +232,7 @@ We also recommend these lists.
 *Libraries that implement email creation and sending*
 
 * [Email::Sender](https://metacpan.org/pod/Email::Sender)
+* [Email::Stuffer](https://metacpan.org/pod/Email::Stuffer)
 
 ## Event Loops
 
