@@ -526,6 +526,11 @@ We also recommend these lists.
 *Libraries for extracting some information from websites*
 
 * [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
+* [WWW::Mechanize](https://metacpan.org/pod/WWW::Mechanize)
+* [WWW::Mechanize::PhantomJS](https://metacpan.org/pod/WWW::Mechanize::PhantomJS) - automate the PhantomJS browser
+* [WWW::Scripter](https://metacpan.org/pod/distribution/WWW-Scripter/lib/WWW/Scripter.pod) - For scripting web sites that have scripts
+* [WWW::Selenium](https://metacpan.org/pod/WWW::Selenium) 
+
 
 ## Network Security
 
