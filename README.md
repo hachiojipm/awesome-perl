@@ -19,6 +19,7 @@ We also recommend these lists.
 - [Awesome Perl](#awesome-perl)
     - [Args](#args)
     - [Audio](#audio)
+        - [Digital Signal Processing](#DSP)
     - [Benchmarks](#benchmarks)
     - [Caches](#caches)
     - [Class Builder](#class-builder)
@@ -79,6 +80,13 @@ We also recommend these lists.
 
 * [Audio::CD](https://metacpan.org/pod/Audio::CD) - Interface to libcdaudio (cd + cddb)
 * [Audio::Wav](https://metacpan.org/pod/Audio::Wav) - Modules for reading & writing Microsoft WAV files.
+* [Audio::SndFile](https://metacpan.org/pod/Audio::SndFile) - Perl library for  reading and writing  sound files
+* [Audio::Ao](https://metacpan.org/pod/Audio::Ao) - A Perl wrapper for the Ao audio library
+* [MIDI::ALSA](https://metacpan.org/pod/MIDI::ALSA) - the perl ALSA library, plus some interface functions
+
+### DSP
+* [Audio::Analyzer](https://metacpan.org/pod/Audio::Analyzer) - Demodulate Audio through  FFT and perl!
+* [Audio::Analyzer::ToneDetect](https://metacpan.org/pod/Audio::Analyzer::ToneDetect) - Detect freq of tones in an audio file or stream
 
 ## Benchmarks
 
