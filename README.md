@@ -66,6 +66,8 @@ We also recommend these lists.
     - [Web Frameworks-Like](#web-frameworks-like)
     - [Web Scraping](#web-scraping)
     - [Network Security](#Network-Security)
+    - [Digital Forensics](#Metadata-Forensics)
+    - [Reverse Engineering](#Reverse-Engineering)
 
 ## Args
 
@@ -244,6 +246,7 @@ We also recommend these lists.
 *Libraries that implement email creation and sending*
 
 * [Email::Sender](https://metacpan.org/pod/Email::Sender)
+* [Email::Reply](https://metacpan.org/pod/Email::Reply)
 * [Email::Stuffer](https://metacpan.org/pod/Email::Stuffer)
 
 ## Event Loops
@@ -294,6 +297,11 @@ We also recommend these lists.
 
 * [Image::Magick](https://metacpan.org/pod/Image::Magick) - An object-oriented interface to ImageMagick's image composing libraries.
 * [Imager](https://metacpan.org/pod/Imager)
+* [GD](https://metacpan.org/pod/GD) - Interface to Gd Graphics Library
+* [Image::Info](https://metacpan.org/pod/Image::Info) - Get image informations
+* [Image::PNG::Libpng](https://metacpan.org/pod/release/BKB/Image-PNG-Libpng-0.52_03/lib/Image/PNG/Libpng.pm) - Perl interface for libpng
+* [Graphics::TIFF](https://metacpan.org/pod/Graphics::TIFF) - Perl wrapper for libtiff
+* [Image::BMP](https://metacpan.org/pod/Image::BMP) - Perl bitmap image parser and viewer
 
 ## List Manipulation
 
@@ -570,6 +578,28 @@ We also recommend these lists.
 * [Parse::Snort](https://metacpan.org/pod/Parse::Snort) - Perl Snort rules parser
 * [Net::Wireless::802_11::WPA::CLI](https://metacpan.org/pod/Net::Wireless::802_11::WPA::CLI) - Perl WPA_CLI interface
 * [IO::Socket::SSL::Intercept](https://metacpan.org/IO::Socket::SSL::Intercept) - library for intercepting SSL connections through Perl
+
+## Metadata Forensics
+
+*General Metadata files parser, usefull during forensics investigations*
+
+* [Image::ExifTool](https://metacpan.org/pod/distribution/Image-ExifTool/exiftool) - General metadata parser and viewer framework
+
+## Reverse Engineering
+
+*Libraries used for disassembly assembly operations, ELF files and bytecode*
+
+* [Disassembly](https://metacpan.org/pod/distribution/B-C/script/disassemble) - Decompiles binary bytecode to readable and recompilable bytecode assembler
+* [Python::Bytecode](https://metacpan.org/pod/Python::Bytecode) - Parse Python bytecode
+* [B::Bytecode](https://metacpan.org/pod/B::Bytecode) - Compiles a Perl script into a bytecode format that could be loaded later
+* [Perf::ARM](https://metacpan.org/pod/Perf::ARM) - Use ARM instructions in Perl
+* [Asm::Z80::Table](https://metacpan.org/pod/Asm::Z80::Table) - assemble / disassemble all Z80 CPU assembly instructions with Perl
+* [X86::Disasm](https://metacpan.org/pod/X86::Disasm) - Disassemble Intel x86 instructions with Perl
+* [Disassemble::X86](https://metacpan.org/pod/Disassemble::X86) - Another library for disassembe X86 instructions
+* [X86::Udis86](https://metacpan.org/pod/X86::Udis86) - Interface for the C Udis disassembler
+* [Asm::X86](https://metacpan.org/pod/Asm::X86) - List of instructions and registers of x86-compatible processors, validating and converting instructions and memory references
+* [ELF::Writer](https://metacpan.org/pod/ELF::Writer) - write and read executable ELF files 
+
 
 # Other Awesome Lists
 
