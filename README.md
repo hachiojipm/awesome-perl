@@ -218,9 +218,12 @@ We also recommend these lists.
 
 *Libraries to talk to physical devices*
 
+* [Device::SerialPort](https://metacpan.org/pod/Device::SerialPort) - Generic Serial Port library for serial line communication
 * [Device::Modem](https://metacpan.org/pod/Device::Modem) - Talk to modem devices conneted via serial port
 * [Device::Onkyo](https://metacpan.org/pod/Device::Onkyo) - Control Onkyo/Integra AV equipment via LAN or Serial
-
+* [Chipcard::PCSC::Card](https://metacpan.org/pod/distribution/pcsc-perl/Card/Card.pod) - Control Smart card using perl and PCSC
+* [Device::XBee::API](https://metacpan.org/pod/Device::XBee::API) - Control XBee Device using pure perl code
+* [Device::Firmata](https://metacpan.org/pod/Device::Firmata) - module for controlling Firmata devices like Arduino
 
 ## DevOps Tools
 
