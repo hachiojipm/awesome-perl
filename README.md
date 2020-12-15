@@ -37,6 +37,7 @@ We also recommend these lists.
     - [Email](#email)
     - [Event Loops](#event-loops)
     - [Exception Handling](#exception-handling)
+    - [DOM Manipulation](#dom-manipulation)
     - [File Manipulation](#file-manipulation)
     - [Form Frameworks](#form-frameworks)
     - [Images](#images)
@@ -260,6 +261,10 @@ We also recommend these lists.
 * [Throwable](https://metacpan.org/pod/Throwable) - a role for classes that can be thrown
 * [Try::Tiny](https://metacpan.org/pod/Try::Tiny) - minimal try/catch with proper preservation of $@
 * [TryCatch](https://metacpan.org/pod/TryCatch) - first class try catch semantics for Perl, without source filters
+
+## DOM Manipulation
+
+* [HTML5::DOM](https://metacpan.org/pod/HTML5::DOM) - Super fast html5 DOM library with css selectors (based on Modest/MyHTML).
 
 ## File Manipulation
 
