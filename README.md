@@ -489,6 +489,9 @@ We also recommend these lists.
 
 * [FFmpeg](https://metacpan.org/pod/FFmpeg) - Interface to FFmpeg, a video converter written in C
 * [Video::Info](https://metacpan.org/pod/Video::Info) - Retrieve video properties such as: height width codec fps
+* [Vlc::Engine](https://metacpan.org/pod/Vlc::Engine) - use Vlc media player with Perl
+* [VideoLAN::LibVLC](https://metacpan.org/pod/VideoLAN::LibVLC) - Perl bindings for libvlc.so
+* [Video::Generator](https://metacpan.org/pod/Video::Generator) - Perl class for video generation
 
 ## Web Frameworks
 
