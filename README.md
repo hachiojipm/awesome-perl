@@ -25,6 +25,7 @@ We also recommend these lists.
     - [Class Builder](#class-builder)
     - [CLI](#cli)
     - [Cloud](#cloud)
+    - [Cryptography](#cryptography)
     - [Commercial WebServices](#commercial-webservices)
     - [Container](#container)
     - [Data Format](#data-format)
@@ -143,6 +144,11 @@ We also recommend these lists.
 * [Net::AWS::SES](https://metacpan.org/pod/Net::AWS::SES) - Perl extension that implements Amazon Simple Email Service (SES) client
 * [WebService::DigitalOcean](https://metacpan.org/pod/WebService::DigitalOcean) - Access the DigitalOcean RESTful API (v2)
 * [WebService::Dropbox](https://metacpan.org/pod/WebService::Dropbox) - Interface to Dropbox API
+
+## Cryptography
+
+* [Bitcoin::Crypto](https://metacpan.org/pod/Bitcoin::Crypto) - Bitcoin cryptography in Perl
+* [CryptX](https://metacpan.org/pod/CryptX) - Cryptographic toolkit
 
 ## Commercial WebServices
 
