@@ -1,8 +1,6 @@
 # Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Perl5 resources, including frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
-
-Not Perl6 modules ;-P
+A curated list of awesome Perl resources, including frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Another module list
 
