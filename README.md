@@ -61,6 +61,7 @@ We also recommend these lists.
         - [Test Double](#test-double)
         - [Coverage](#coverage)
     - [Tools](#tools)
+    - [Type Checking](#type-checking)
     - [Video](#video)
     - [Web Frameworks](#web-frameworks)
         - [Middlewares](#middlewares)
@@ -505,6 +506,12 @@ We also recommend these lists.
 *Libraries for handling configuration files*
 
 * [Config::Tiny](https://metacpan.org/pod/Config::Tiny) - Read/Write .ini style files with as little code as possible
+
+
+## Type checking
+
+* [MooseX::Types](https://metacpan.org/pod/MooseX::Types) - Moose types management tool
+* [Type::Tiny](https://metacpan.org/pod/Type::Tiny) - Tiny, yet comprehensive type library
 
 ## Video
 
