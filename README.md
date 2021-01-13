@@ -535,6 +535,7 @@ We also recommend these lists.
 * [Dancer](https://metacpan.org/pod/Dancer) ([Official site](http://perldancer.org/))
 * [Dancer2](https://metacpan.org/pod/Dancer2)
 * [Gantry](https://metacpan.org/pod/Gantry) - Web application framework for mod\_perl, cgi, etc.
+* [Kelp](https://metacpan.org/pod/Kelp) - Plack-focused Perl web framework
 * [Kossy](https://metacpan.org/pod/Kossy) - A Web framework with simple interface.
 * [Mojolicious](https://metacpan.org/pod/Mojolicious) - An all in one framework.
 * [Poet](https://metacpan.org/pod/Poet) - a modern Perl web framework for Mason developers
