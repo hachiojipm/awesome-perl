@@ -501,6 +501,7 @@ We also recommend these lists.
 * [Reply](https://metacpan.org/pod/Reply) - Read-eval-print-loop(REPL) command-line tool.
 * [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
 * [Smart::Comments](https://metacpan.org/pod/Smart::Comments) - Comments that do more than just sit there.
+* [Explore Perl](https://kandi.openweaver.com/explore/perl) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 *Libraries for developping command line applications*
 
