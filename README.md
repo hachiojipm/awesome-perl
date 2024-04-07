@@ -206,6 +206,7 @@ We also recommend these lists.
 
 * [DBD::CSV](https://metacpan.org/pod/DBD::CSV)
 * [DBD::Firebird](https://metacpan.org/pod/DBD::Firebird)
+* [DBD::MariaDB](https://metacpan.org/pod/DBD::MariaDB) - MariaDB and MySQL driver for the Perl5 Database Interface (DBI)
 * [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
 * [DBD::ODBC](https://metacpan.org/pod/DBD::ODBC) - Any ODBC Driver. MS-SQL w/ placeholders
 * [DBD::Oracle](https://metacpan.org/pod/DBD::Oracle) - Oracle database driver for the DBI module
